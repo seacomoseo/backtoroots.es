@@ -1,0 +1,149 @@
+id: aguahara
+title: AguAhArA
+subtitle: Vuelta Al SiLeNciO
+color: black
+bg: agua.webm
+description: |
+  icon-quote-left
+  El AguA CoMo OrÍGeN De ViDa
+  icon-quote-right
+  {.align-center}
+more:
+  opacity: 50
+rows:
+
+- type: columns
+  design:
+    num: 2
+  items:
+  - image: aguahara.webm
+  - description: |
+      AGUAHARA es una forma en la que podrás abrir una nueva manera de conexión contigo mism@, con el mundo, con la belleza, la tranquilidad y la paz. El cerebro más racional deja paso a otro modo de vivencia, más sensorial, menos controlado, más fluido.
+
+      Es definitivamente una experiencia que necesitas sentir y toda descripción en palabras se quedará corta, ten en cuenta que el agua es la que permite crear la vida, mantenerla y conectarla en todas sus formas. Posee una dimensión sagrada, simbólica y mística en todas las religiones y tradiciones. Su significado sobrepasa la realidad material. Sugiere en si misma la paz interna, el arte y la belleza.
+
+      [btn icon-plus Más](#aguahara-mas)
+    more:
+      align: left
+  - span: 2
+    title: Sesiones individuales en
+    description: |
+      [btn icon-location-dot Sumaya Palafrugell (Baix Empordà)](https://maps.google.com/maps?q=Sumaya+Palafrugell "nofollow")
+      [btn icon-location-dot Balneari Prats (Caldes de Malavella)](https://maps.google.com/maps?q=Balneari+Prats "nofollow")
+      [btn icon-location-dot Termes La Garriga (Barcelona)](https://maps.google.com/maps?q=Termes+La+Garriga "nofollow")
+
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+    hide_bullets: true
+  items:
+  - title: Cristina Blanco
+    image: resena-aguajara-cristina-blanco.jpg
+    description: |
+      En mis días previos al periodo, me vino muy bien para soltar y relajar el calor, los movimientos y el agua me ayudaron a conectarme con mi cuerpo y ver el estado el cual se encontraba. Poder soltar y soltar.
+
+      En algunos movimientos Seme aparecía una serpiente recorriendo todo mi cuerpo era una sensación muy sanadora.
+
+      En el momento que me sumergiste estaba flotando, rodeada en una luz brillante era un animal, mi foca nadando km km bajo el mar. Sentía paz mucha paz cada vez quería estar más y más dentro del agua.
+
+      Fue una maravilla de experiencia
+  - title: Valerie
+    image: resena-aguahara-valerie-sm.jpg
+    description: |
+      ![](resena-aguahara-valerie.mp4)
+      {#resena-aguahara-valerie}
+  - title: Rosa Nuñez
+    image: resena-aguajara-rosa-nunez.jpg
+    description: |
+      Durante el tiempo q hice aguahara no hubo pasado, ni futuro. Tampoco pensamientos más allá de la respiración y la sensación corporal de fluir... No había luz, no había ruido, no había espacio ni tiempo. Únicamente la mágica sensación de sumergirse y emerger del agua. Al emerger el sol acariciaba la cara. Dentro del agua me deslizaba ingrávida en un espacio infinito, llena de paz. Una maravillosa experiencia sensorial. Gracias.
+  - title: Norma
+    image: resena-aguajara-norma.jpg
+    description: |
+      Uf! Qué difícil ponerle palabras a esto!!!
+
+      2 cosas destacaría:
+      1. Yo tuve la sensación de recuperar la conexión del fluir en el vientre materno.\
+      De no tener que haber nada y disponer de todo lo que necesitaba. 
+      2. También sentí expansión, la sensación de ser más allá de mi piel, de los límites corporales y el conectar con ese vacío lleno donde todo está bien, el gozo de la vida, de sentirte en casa y reconocer de dónde venimos.
+
+      Gracias de nuevo Marta.
+  - title: Borja
+    image: resena-aguajara-borja.jpg
+    description: |
+      Muy seguro y relajado, dejando todo mi cuerpo a su merced. 
+
+      Me sentí como un niño, sin preocupaciones y bien cuidado!!
+
+      El rato que duro, desconecte del mundo exterior, solo sentía el contacto de su cuerpo y sus manos con el mío!!
+
+      Al acabar la sesión me sentí muy relajado, era como si mi cuerpo no quisiera salir del agua, todo era placer.
+  - title: Nicolay Vysotskyy
+    image: resena-aguajara-nicolay-vysotskyy.jpg
+    description: |
+      Si t’hagués de dir les 5 experiències de la meva vida aquesta en seria sense dubte
+
+      Expansió, harmonia, bellesa, connexió amb un mateix i amb el tot a la vegada
+
+      L’aguahara es essència, connexió de la llibertat del ser amb la Pau interior, expansió de la consciència cap a la teva naturalesa. Sanació.
+  - title: Albert
+    image: resena-aguajara-albert.jpg
+    description: |
+      Aguahara para mí fue como sumergirme en recuerdos de la infancia. Una liberación del cuerpo envuelto en agua. Abrir los ojos y dejarme llevar por un recorrido desconocido hasta llegar a la paz mental.
+  - title: Irene
+    image: resena-aguajara-irene.jpg
+    description: |
+      El aguahara con Marta me hizo conectar con mi infancia, con mi calma e incluso con mi yo dentro del vientre materno. Una experiencia única. Marta tiene una delicadeza y un respeto hacia lo que va ocurriendo en cada momento. Sin duda, un regalo para los sentidos.
+  - title: Montse Mas Dausà
+    image: resena-aguajara-montse-mas-dausa.jpg
+    description: |
+      El aquahara es una experiencia magnifica y maravillosa que no te debes perder sensación de libertad de no pensar en nada y solo de disfrute la conexión con el agua te transporta a otro lugar y lo más importante nuestra terapeuta Marta que es maravillosa con esa energía que desprende a raudales te hace sentir única. Gracias por esta experiencia 😘😘
+  - title: Nina
+    image: resena-aguajara-nina.jpg
+    description: |
+      El placer de experimentar Aguahara en el embarazo,  meditación ingrávida que eleva el alma y conecta tu ser a un estado de profunda felicidad y conciencia.
+
+      Danza acuática que te mimetiza con el elemento. Conexión emocional uterina y en mi caso plenitud con mis dos bebés. Sentirlos fluir, danzando y llenos de puro amor, es una experiencia única, reveladora y un viaje a tu interior sin precedentes.
+  - title: Alejandra
+    image: resena-aguajara-alejandra.jpg
+    description: |
+      Describiría Aguahara como una experiencia única e irrepetible. Realizada con una profesional que te hace sentir segura, protegida y cuidada en todo momento.
+
+      Para mí represento un encuentro con tu animal acuático, un recuerdo del vientre materno, un viaje a lo divino.
+
+      Sin dudarlo, repetiría.
+  - title: Sonia
+    image: resena-aguajara-sonia.jpg
+    description: |
+      Sentí como si estuviera haciendo una meditación con un relax total, pero en el agua, había momentos que no sentías que estabas en el agua, sino que flotabas, sentir la ingravidez, era muy relajante y muy placentero. Definitivamente algo que hay que experminetar.
+  - title: María Esther
+    # image: resena-aguajara-maria-esther.jpg
+    description: |
+      Mi experiencia con Aguahara ha sido fantástica, sentirme acunada por Marta en el agua hizo despertar memorias celulares del tiempo uterino. Me relajé profundamente, me encantó el masaje q me hizo en el agua. Y en la experiencia de inmersión se abría un túnel de luz por el que sentía ganas de entregarme y rendirme. Marta acompaña y sostiene con tanto amor que permitió que me entregara en total confianza al descanso y relax profundo.
+
+      Un disfrute en todos los sentidos. Lo recomiendo totalmente.
+  - title: Valerie
+    # image: resena-aguajara-valerie.jpg
+    description: |
+      Para mí ha sido un viaje muy lejos y muy intenso a la vez que una relajación y paz absoluta
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más testimonios](https://g.page/webmurcia/review "noindex")
+
+- type: gallery
+  design:
+    max: 99
+    num: 5
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    link: ''
+  images:
+  - fondo.jpg
+  - https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=512&q=60
+  - https://images.unsplash.com/photo-1552664730-d307ca884978?fit=crop&w=512&q=60
+  - https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?fit=crop&w=512&q=60

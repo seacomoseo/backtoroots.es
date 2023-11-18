@@ -1,0 +1,39 @@
+title: BacK To RooTs
+description: Vuelta al origen mediante Satyam Yoga, Danzáfrica (Danza Africana) y Aguahara; con clases y sesiones privadas y regulares, talleres, encuentros y celebraciones. Además de viajes y retiros a Ibiza, Costa Brava y Senegal.
+logo: logo.png
+legal_name: Marta Ribas Orozco
+legal_dni: 12345678-A
+legal_email: martaribas.orozco@gmail.com
+legal_location: Carrer Riera d'Aubí, 37, 17230, Palamós, Girona
+country: España
+location_type:
+- Organization
+alternate_name:
+- Back To Roots
+- Dana Frimar
+price_range: ''
+google_analytics: ''
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/danafrimar/
+

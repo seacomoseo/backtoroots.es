@@ -1,0 +1,77 @@
+id: satyam-yoga
+title: SaTyaM YoGa
+subtitle: Vuelta a la Unidad
+color: black
+bg: espigas.mp4
+description: |
+  icon-quote-left
+  El YoGa De LoS YoGaS
+  icon-quote-right
+  {.align-center}
+more:
+  opacity: 50
+rows:
+- type: columns
+  design:
+    num: 2
+  items:
+  - image: satyam-yoga.jpg
+  - description: |
+      No es ni una filosofía, ni una ideología, ni religión, simplemente propone un camino evolutivo hacia la autorrealización mediante la auto observación, la reflexión, el conocimiento y la experiencia personal. Facilita y promueve que cada practicante, a través de su trabajo personal, experimente por sí mismo el conocimiento y que mediante las propias realizaciones desarrolle una nueva conciencia e importantes transformaciones personales para alcanzar su propia plenitud.
+
+      El Satyam Yoga fomenta las prácticas grupales como la meditación, el estudio, y el servicio, siempre desde una actitud de colaboración y cooperación y desde el respeto a la propia libertad personal y al propio desarrollo y funcionamiento grupal.
+
+      [btn icon-plus Más](#satyam-yoga-mas)
+    more:
+      align: left
+  - title: Classes privadas en
+    description: |
+      [btn icon-location-dot Baix Empordà S](https://maps.google.com/maps?q=Baix+Emporda+S "nofollow")
+      [btn icon-location-dot Sant Cugat del Vallès](https://maps.google.com/maps?q=Sant+Cugat+del+Valles "nofollow")
+  - title: Retiros
+    description: |
+      [btn icon-location-dot Ibiza](#ibiza)
+      [btn icon-location-dot Costa Brava](#costa-brava)
+      [btn icon-location-dot Senegal](#senegal)
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+    hide_bullets: true
+  items:
+  - title: Blanca Parellada
+    image: resena-satyam-yoga-blanca-parellada.jpg
+    description: |
+      Recomendaría a todos las clases de yoga de Marta, es una profesora que no solo destaca por su personalidad y su alegría, sino que es perfeccionista, meticulosa y rigurosa. Está muy pendiente de los ajustes, con ella he aprendido a hacer correctamente las asanas. 
+
+      Mil gracias Marta icon-heart
+  - title: Ricard
+    subtitle: Mestre de música
+    image: resena-satyam-yoga-ricard.jpg
+    description: |
+      El que més m'impressiona de la Marta a les seves sessions de ioga, és l'energia que encomana a tots els seus deixebles. Sempre ho dona tot perquè tothom pugui aprofitar al màxim la classe, cuidant tots els detalls i de manera personalitzada. Així, la percepció del temps, desapareix.
+  - title: Isa
+    image: resena-satyam-yoga-isa.jpg
+    description: |
+      La meditación guiada con marta es indescriptible. Tras haber probado sin éxito otras sesiones puedo decir que gracias a sus técnicas, conocimiento como maestra y su ayuda, vivi y sentí una meditación real, consciente y profunda que sumado a unas técnicas de respiración sorprendentes han supuesto una nueva etapa en mi vida. No tengo palabras para expresar toda mi gratitud.
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más testimonios](https://g.page/webmurcia/review "noindex")
+
+- type: gallery
+  design:
+    max: 99
+    num: 5
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    link: ''
+  images:
+  - fondo.jpg
+  - https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=512&q=60
+  - https://images.unsplash.com/photo-1552664730-d307ca884978?fit=crop&w=512&q=60
+  - https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?fit=crop&w=512&q=60

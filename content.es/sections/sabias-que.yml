@@ -1,0 +1,12 @@
+title: ¿SAbíAS qUé?
+subtitle: Novedades
+rows:
+- type: articles
+  kind: blog
+  categories: []
+  tags: []
+  author: ''
+  max: 12
+  design:
+    num: 4
+    slider: true

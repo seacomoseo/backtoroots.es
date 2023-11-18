@@ -1,0 +1,25 @@
+title: ¿Te UnEs?
+subtitle: ¿Qué procesos seguimos?
+rows:
+- type: columns
+  design:
+    color: white
+    inset: true
+    underline: true
+    link: '#ejemplo'
+  items:
+  - title: RETIROS
+    subtitle: Agámoslo!
+    image: fondo.jpg
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: VIAJES
+    subtitle: Agámoslo!
+    image: fondo.jpg
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: EVENTOS
+    subtitle: Agámoslo!
+    image: fondo.jpg
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

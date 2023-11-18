@@ -1,0 +1,32 @@
+baseURL: https://backtoroots.es
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://github.com/danafrimar/backtoroots.es
+  netlify_name: danafrimar
+  netlify_id: d07e06c8-c4f9-4385-9e10-e56e9b0763db
+  drive_link: https://drive.google.com/file/d/1f4HKwAlKsOafDjL2yxfgKubLXsPxHvbm
+  drive_mails: martaribas.orozco@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

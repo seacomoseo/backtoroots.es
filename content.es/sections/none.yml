@@ -1,0 +1,9 @@
+anchor: Espacio
+# description: |
+#   icon-quote-left
+#   Esto es lo que mola
+#   icon-quote-right
+#   {.h1}
+# align: center
+more:
+  padding_hide: true

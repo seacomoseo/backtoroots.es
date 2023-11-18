@@ -1,0 +1,78 @@
+.h1, .h2, .h3, .h4, .h5, .h6,
+h1, h2, h3, h4, h5, h6 {
+  // font-family: fantasy;
+  letter-spacing: .125em;
+}
+.subtitle {
+  font-size: 1.5em;
+  --alt: var(--main);
+}
+.bg-white,
+.bg-light,
+.bg-alt,
+.bg-link,
+.bg-main-light,
+.bg-alt-light,
+.bg-link-light {
+  --alt: var(--dark);
+  --alt-text: var(--dark-text);
+  strong {
+    color: var(--dark);
+  }
+}
+#aguahara {
+  --link: var(--light);
+  --link-text: var(--light-text);
+  .review:nth-child(2) {
+    figure {
+      margin: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      &, .image, .image__inner {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .review__text:after {
+      content: none;
+    }
+    .review__globe:after {
+      border-top-color: $black;
+    }
+  }
+}
+#danzafrica {
+  .bg-figure-image img {
+    object-position: top center;
+  }
+}
+
+// Header Animations
+
+@keyframes logo-drop {
+  0% {
+    transform: scale(3);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+#body-inicio #header {
+  .image {
+    path {
+      fill: var(--text);
+    }
+    transform-origin: center;
+    animation: logo-drop 1s 0s both;
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .section__title {       @include show-up(1); }
+  .subtitle {             @include show-up(2); }
+  .description p {        @include show-up(3); }
+  .description .buttons { @include show-up(4); }
+}

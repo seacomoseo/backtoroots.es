@@ -1,0 +1,41 @@
+anchor: BacK To RooTs
+# subtitle: Vuelta al origen
+color: main-dark
+# bg: fondo.jpg
+gradient: black
+more:
+  full_screen: true
+  padding_top: 3
+rows:
+- type: columns
+  # color: white
+  # inset: true
+  # card: true
+  design:
+    ratio: 4x3
+    underline: true
+  items:
+  - title: SaTyaM YoGa
+    subtitle: Vuelta a la Unidad
+    image: satyam-yoga.jpg
+    link: '#satyam-yoga'
+    description: |
+      icon-quote-left
+      El YoGa De LoS YoGaS
+      icon-quote-right
+  - title: DAnZÁFricA
+    subtitle: Vuelta a la RaiZ
+    image: danzafrica.jpg
+    link: '#danzafrica'
+    description: |
+      icon-quote-left
+      La DanZa De LaS DanZaS
+      icon-quote-right
+  - title: AguAhArA
+    subtitle: Vuelta Al SiLeNciO
+    image: aguahara.jpg
+    link: '#aguahara'
+    description: |
+      icon-quote-left
+      El AguA CoMo OrÍGeN De ViDa
+      icon-quote-right
