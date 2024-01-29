@@ -20,22 +20,19 @@ rows:
     image: satyam-yoga.jpg
     link: '#satyam-yoga'
     description: |
-      icon-quote-left
-      El YoGa De LoS YoGaS
-      icon-quote-right
+      > El YoGa De LoS YoGaS
+      {.quotes .font-base}
   - title: DAnZÁFricA
     subtitle: Vuelta a la RaiZ
     image: danzafrica.jpg
     link: '#danzafrica'
     description: |
-      icon-quote-left
-      La DanZa De LaS DanZaS
-      icon-quote-right
+      > La DanZa De LaS DanZaS
+      {.quotes .font-base}
   - title: AguAhArA
     subtitle: Vuelta Al SiLeNciO
     image: aguahara.jpg
     link: '#aguahara'
     description: |
-      icon-quote-left
-      El AguA CoMo OrÍGeN De ViDa
-      icon-quote-right
+      > El AguA CoMo OrÍGeN De ViDa
+      {.quotes .font-base}

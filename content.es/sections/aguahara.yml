@@ -4,10 +4,8 @@ subtitle: Vuelta Al SiLeNciO
 color: black
 bg: agua.webm
 description: |
-  icon-quote-left
   El AguA CoMo OrÍGeN De ViDa
-  icon-quote-right
-  {.align-center}
+  {.align-center .font-base}
 more:
   opacity: 50
 rows:

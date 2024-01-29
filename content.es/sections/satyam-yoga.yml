@@ -4,10 +4,8 @@ subtitle: Vuelta a la Unidad
 color: black
 bg: espigas.mp4
 description: |
-  icon-quote-left
-  El YoGa De LoS YoGaS
-  icon-quote-right
-  {.align-center}
+  > El YoGa De LoS YoGaS
+  {.align-center .font-base}
 more:
   opacity: 50
 rows:

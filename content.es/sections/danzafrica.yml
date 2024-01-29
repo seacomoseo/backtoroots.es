@@ -4,10 +4,8 @@ subtitle: Vuelta a la RaiZ
 color: black
 bg: danzafrica.jpg
 description: |
-  icon-quote-left
   La DanZa De LaS DanZaS
-  icon-quote-right
-  {.align-center}
+  {.align-center .font-base}
 # color: link
 more:
   opacity: 20
