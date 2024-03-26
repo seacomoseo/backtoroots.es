@@ -7,11 +7,23 @@ image: fondo.jpg
 draft: false
 noindex: false
 translationKey: home
+# general:
+#   divider: brush
+#   color: main-dark
+# alternate:
+# - color: main-light
+#   flip_x: true
+#   flip_y: true
 general:
   divider: brush
   color: main-dark
+  gradient: black
+  bg: fondos/espigas.mp4
 alternate:
-- color: main-light
+- color: black
+  gradient: ''
+  bg: fondos/naturaleza.webm
+  opacity: 90
   flip_x: true
   flip_y: true
 sections:

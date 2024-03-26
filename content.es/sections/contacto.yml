@@ -1,5 +1,5 @@
 title: ConTacTo
-subtitle: ¿Tienes alguna duda?
+subtitle: ¡No pienses tanto!
 button: link
 size: sm
 rows:
@@ -7,8 +7,9 @@ rows:
   data:
   - type: phone
     label: +34 677 23 53 34
+    # button: light
   - type: whatsapp
-    button: link
+    # button: link
     label: +34 677 23 53 34
   - type: mail
     label: martaribas.orozco@gmail.com

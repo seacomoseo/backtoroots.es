@@ -1,9 +1,17 @@
 title: CoNóCeMe
 subtitle: ¿Quién soy yo?
+# size: md
+color: black
+bg: fondos/naturaleza.webm
+opacity: 90
 rows:
 - type: columns
+  design:
+    gap: 3
   items:
-  - bg: fondo.jpg
+  - image: https://youtu.be/W6o5p8ukAqc#poster=2023-09-21-13-30-00.jpg
+    ratio: 9x16
+    span: 2
   - description: |
       - Licenciada en administración y dirección de empresas 
       - Experta en externalización de servicios de RSC para empresas
@@ -12,11 +20,12 @@ rows:
 
       > Todo esto está muy bien, pero... ¿Quién soy yo?
 
-      Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista, compleja y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
+      Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
 
-      [btn icon-plus Biografía. ¿Quién soy yo?](#biografia)
-      [btn icon-plus La fuerza de la diosa (Bestia - Divinidad)](#fuerza-diosa)
-      [btn icon-plus Desde dónde comparto y qué siento](#comparto-siento)
+      [btn-main icon-plus Biografía](#biografia)
+      [btn-main icon-plus Diosa](#fuerza-diosa)
+      [btn-main icon-plus Comparto](#comparto-siento)
+    span: 3
     more:
       align: left
       align_y: center

@@ -1,3 +1,5 @@
+// General
+
 .h1, .h2, .h3, .h4, .h5, .h6,
 h1, h2, h3, h4, h5, h6 {
   // font-family: fantasy;
@@ -20,26 +22,63 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--dark);
   }
 }
-#aguahara {
-  --link: var(--light);
-  --link-text: var(--light-text);
-  .review:nth-child(2) {
-    figure {
-      margin: 0;
-      position: absolute;
-      top: 0;
-      left: 0;
-      &, .image, .image__inner {
-        width: 100%;
-        height: 100%;
-      }
-    }
-    .review__text:after {
-      content: none;
-    }
-    .review__globe:after {
-      border-top-color: $black;
-    }
+.whatsapp {
+  --base: #128c7e;
+  --hover: #075e54;
+  --active: #25d366;
+}
+
+
+// Header Animations
+
+// @keyframes logo-drop {
+//   0% {
+//     transform: scale(3);
+//     opacity: 0;
+//   }
+//   100% {
+//     transform: scale(1);
+//     opacity: 1;
+//   }
+// }
+#body-inicio #header {
+  // .image {
+  //   path {
+  //     fill: var(--text);
+  //   }
+  //   transform-origin: center;
+  //   animation: logo-drop 1s 0s both;
+  // }
+  @mixin show-from($delay) {
+    animation: show-from .5s (.25 + .125s * $delay) both;
+  }
+  .row--1 .column--item-1 { @include show-from(1); }
+  .row--2 .column--item-1 { @include show-from(2); }
+  .row--2 .column--item-2 { @include show-from(3); }
+  .row--2 .column--item-3 { @include show-from(4); }
+}
+
+
+// Sections
+
+// #header,
+#conoceme {
+  [data-iframe]:after {
+    content: '';
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{ str-slice(#{ $main }, 2) }'/%3E%3Cpath d='M45 24 27 14v20' fill='%23#{ str-slice(#{ $main-contrast-neutral }, 2) }'/%3E%3C/svg%3E");
+  }
+}
+#satyam-yoga {
+  &, .bg {
+    --main: var(--light);
+    --link: var(--light);
+  }
+  .column--item-1
+  .image__inner
+  img {
+    --mask-image: linear-gradient(black 85%, transparent 100%);
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
   }
 }
 #danzafrica {
@@ -47,32 +86,32 @@ h1, h2, h3, h4, h5, h6 {
     object-position: top center;
   }
 }
-
-// Header Animations
-
-@keyframes logo-drop {
-  0% {
-    transform: scale(3);
-    opacity: 0;
+#aguahara {
+  &, .bg {
+    --main: var(--alt);
   }
-  100% {
-    transform: scale(1);
-    opacity: 1;
+  --link: var(--alt);
+  --link-text: var(--alt-text);
+  [data-iframe]:after {
+    content: '';
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{ str-slice(#{ $alt }, 2) }'/%3E%3Cpath d='M45 24 27 14v20' fill='%23#{ str-slice(#{ $alt-contrast-neutral }, 2) }'/%3E%3C/svg%3E");
   }
-}
-#body-inicio #header {
-  .image {
-    path {
-      fill: var(--text);
-    }
-    transform-origin: center;
-    animation: logo-drop 1s 0s both;
-  }
-  @mixin show-from($delay) {
-    animation: show-from .5s (.5 + .25s * $delay) both;
-  }
-  .section__title { @include show-from(1); }
-  .subtitle {       @include show-from(2); }
-  blockquote {      @include show-from(3); margin-block: 0; }
-  .buttons {        @include show-from(4); }
+  // .review:nth-child(2) {
+  //   figure {
+  //     margin: 0;
+  //     position: absolute;
+  //     top: 0;
+  //     left: 0;
+  //     &, .image, .image__inner {
+  //       width: 100%;
+  //       height: 100%;
+  //     }
+  //   }
+  //   .review__text:after {
+  //     content: none;
+  //   }
+  //   .review__globe:after {
+  //     border-top-color: $black;
+  //   }
+  // }
 }

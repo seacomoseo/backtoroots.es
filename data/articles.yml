@@ -10,8 +10,8 @@ content:
   border: ''
   reading_time: true
 common:
-  size: ''
-  num: 3
+  size: lg
+  num: 4
   num_xs: false
   gap: ''
   title_size: null

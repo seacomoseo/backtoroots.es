@@ -1,5 +1,5 @@
 title: ¿SAbíAS qUé?
-subtitle: Novedades
+subtitle: Blog
 rows:
 - type: articles
   kind: blog
@@ -10,3 +10,5 @@ rows:
   design:
     num: 4
     slider: true
+    color: main
+    color_opacity: 30

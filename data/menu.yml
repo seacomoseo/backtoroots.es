@@ -1,5 +1,5 @@
-logo: logo.svg
-color: white
+logo: ''
+color: main-dark
 screen_sticky: 600
 size_sticky: ''
 articles_sticky: false
