@@ -41,7 +41,7 @@ rows:
   - title: SaTyaM YoGa
     subtitle: Vuelta a la Unidad
     image: satyam-yoga/2023-09-21-12-40-45.jpg
-    link: '#satyam-yoga'
+    link: /satyam-yoga/
     button: light
     description: |
       > El YoGa De LoS YoGaS
@@ -49,7 +49,7 @@ rows:
   - title: DAnZÁFricA
     subtitle: Vuelta a la RaiZ
     image: danzafrica/2023-09-24--01.jpg
-    link: '#danzafrica'
+    link: /danzafrica/
     button: link
     description: |
       > La DanZa De LaS DanZaS
@@ -57,7 +57,7 @@ rows:
   - title: AguAhArA
     subtitle: Vuelta Al SiLeNciO
     image: aguahara/2023-09-24-19-35-59.jpg
-    link: '#aguahara'
+    link: /aguahara/
     button: alt
     description: |
       > El AguA CoMo OrÍGeN De ViDa
