@@ -1,0 +1,36 @@
+title: Galería
+subtitle: Fotos
+rows:
+- type: gallery
+  design:
+    num: 3
+    alt: true
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+    link: ''
+    button: hide
+  images:
+  - satyam-yoga/2023-09-21-13-15-17.jpg
+  - satyam-yoga/2023-09-21-13-18-13.jpg
+  - satyam-yoga/2023-09-21-13-18-36.jpg
+  - satyam-yoga/2023-09-21-13-19-37.jpg
+  - satyam-yoga/2023-09-21-13-28-24.jpg
+  - satyam-yoga/2023-09-21-13-28-34.jpg
+  - satyam-yoga/2023-09-21-13-29-33.jpg
+  - satyam-yoga/2023-12-12--105.jpg
+  - satyam-yoga/2023-12-12--062.jpg
+  - satyam-yoga/2023-12-12--063.jpg
+  - satyam-yoga/2023-12-12--074.jpg
+  - satyam-yoga/2023-12-12--075.jpg
+  - satyam-yoga/2023-12-12--090.jpg
+  - satyam-yoga/2023-12-12--111.jpg
+  - satyam-yoga/2023-12-12--115.jpg
+  - satyam-yoga/2022-01-05--56.jpg
+  - satyam-yoga/2022-01-05--66.jpg
+  - satyam-yoga/2022-01-05--76.jpg
+  - satyam-yoga/2023-03-23--48.png
+  - satyam-yoga/2023-03-23--63.png
+  - satyam-yoga/2023-03-23--50.png
+  - satyam-yoga/2023-03-23--42.png

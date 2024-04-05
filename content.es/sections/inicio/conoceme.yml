@@ -1,9 +1,6 @@
 title: CoNóCeMe
 subtitle: ¿Quién soy yo?
-# size: md
-color: black
-bg: fondos/naturaleza.webm
-opacity: 90
+# bg: fondos/naturaleza.webm
 rows:
 - type: columns
   design:

@@ -8,7 +8,9 @@ draft: false
 noindex: false
 translationKey: home
 sections:
-- file: aguahara
+- file: aguahara/header
   modals:
   - aguahara-mas
+- file: aguahara/resenas
+- file: aguahara/galeria
 ---

@@ -8,7 +8,9 @@ draft: false
 noindex: false
 translationKey: home
 sections:
-- file: danzafrica
+- file: danzafrica/header
   modals:
   - danzafrica-mas
+- file: danzafrica/resenas
+- file: danzafrica/galeria
 ---

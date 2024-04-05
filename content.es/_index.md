@@ -17,23 +17,15 @@ alternate:
   bg: fondos/naturaleza.webm
   opacity: 90
 sections:
-- file: header
-- file: conoceme
+- file: inicio/header
+- file: inicio/maestrias
+- file: inicio/conoceme
   modals:
   - conoceme-biografia
   - conoceme-fuerza-diosa
   - conoceme-comparto-siento
-# - file: satyam-yoga
-#   modals:
-#   - satyam-yoga-mas
-# - file: danzafrica
-#   modals:
-#   - danzafrica-mas
-# - file: aguahara
-#   modals:
-#   - aguahara-mas
-- file: te-unes
-- file: conocete
-- file: contacto
-- file: sabias-que
+- file: inicio/te-unes
+- file: inicio/conocete
+- file: inicio/contacto
+- file: inicio/sabias-que
 ---

@@ -1,0 +1,30 @@
+anchor: BacK To RooTs
+# subtitle: Vuelta al origen
+more:
+  full_screen: true
+  padding_top: 3
+rows:
+
+# - type: columns
+#   design:
+#     num: 3
+#     # ratio: 3x2
+#     underline: true
+#     gap: 3
+#   items:
+#   - image: icon.svg
+#   - title: BacK To RooTs
+#     subtitle: Vuelta al origen
+
+- type: columns
+  design:
+    align_y: center
+    ratio: 16x9
+    underline: true
+    gap: 3
+  items:
+  - image: icon.svg
+    title: BacK To RooTs
+    subtitle: Vuelta al origen
+  - image: https://youtu.be/T65GmlqwjUE#poster=fondo.jpg
+    span: 2

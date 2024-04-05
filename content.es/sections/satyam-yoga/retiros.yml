@@ -1,0 +1,18 @@
+title: Retiros
+subtitle: Vuelta a la Unidad
+rows:
+- type: columns
+  design:
+    padding: 5
+    button: hide
+    ofuscate: true
+  items:
+  - title: Ibiza
+    link: '#ibiza'
+    bg: danzafrica/2023-senegal.jpg
+  - title: Costa Brava
+    link: '#costa-brava'
+    bg: danzafrica/2023-senegal.jpg
+  - title: Senegal
+    link: '#senegal'
+    bg: danzafrica/2023-senegal.jpg
