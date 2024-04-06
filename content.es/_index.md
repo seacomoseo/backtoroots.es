@@ -9,12 +9,12 @@ noindex: false
 translationKey: home
 general:
   color: link-dark
-  gradient: alt
+  # gradient: alt
   # bg: fondos/espigas.mp4
 alternate:
 - color: alt
-  gradient: link-dark
-  bg: ''
+#   gradient: ''
+#   bg: ''
 sections:
 - file: inicio/header
 - file: inicio/maestrias
