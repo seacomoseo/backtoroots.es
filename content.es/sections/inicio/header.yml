@@ -1,4 +1,4 @@
-anchor: BacK To RooTs
+anchor: BacK To RooTs - Vuelta al Origen - Cataluña
 # subtitle: Vuelta al origen
 more:
   full_screen: true
@@ -23,8 +23,8 @@ rows:
     underline: true
     gap: 3
   items:
+  - image: https://youtu.be/T65GmlqwjUE#mute
+    span: 3
   - image: icon.svg
     title: BacK To RooTs
     subtitle: Vuelta al origen
-  - image: https://youtu.be/T65GmlqwjUE#poster=fondo.jpg
-    span: 2

@@ -19,9 +19,9 @@ rows:
 
       Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
 
-      [btn-main icon-plus Biografía](#biografia)
-      [btn-main icon-plus Diosa](#fuerza-diosa)
-      [btn-main icon-plus Comparto](#comparto-siento)
+      [btn icon-plus Biografía](#biografia)
+      [btn icon-plus Diosa](#diosa)
+      [btn icon-plus Comparto](#comparto)
     span: 3
     more:
       align: left

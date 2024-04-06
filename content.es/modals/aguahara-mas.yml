@@ -1,6 +1,8 @@
+id: más
 anchor: AguAhArA más
 title: AguAhArA
 subtitle: Vuelta Al SiLeNciO
+image: aguahara/2023-09-24-19-35-59.jpg
 description: |
   Las sesiones de Aguahara se realizan involucrando a dos personas: un facilitador entrenado, cuyo rol es activo, pues brinda el movimiento y a la vez un espacio contenido para la otra persona; y un receptor cuya única tarea sólo consiste en soltar, entregándose al agua y al fluir de la sesión. Su rol es 100% es pasivo.
 
@@ -30,7 +32,7 @@ description: |
   ¿Te gustaría probar?
   ¿Quieres un bono regalo?
 
-  [btn Quiero reservar una sesión](#contacto)
+  [btn Quiero reservar una sesión](/#contacto)
 
 
 

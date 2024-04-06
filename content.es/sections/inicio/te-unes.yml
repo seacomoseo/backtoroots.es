@@ -5,6 +5,7 @@ rows:
   design:
     color: black
     opacity: 50
+    padding: 3
     link: '#ejemplo'
     button: hide
   items:

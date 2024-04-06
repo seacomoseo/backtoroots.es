@@ -32,7 +32,7 @@ colors:
     dark: '#fff'
     contrast: none
   alt:
-    color: '#98cdd6'
+    color: '#fff' #98cdd6
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -45,7 +45,7 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#50293d'
+    dark: '#50293d' #231f20
     black: '#000'
 rounded:
   radius: 0.33

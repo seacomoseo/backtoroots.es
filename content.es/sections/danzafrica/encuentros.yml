@@ -1,0 +1,20 @@
+title: Encuentros
+subtitle: grupales con percusión en directo
+rows:
+- type: columns
+  design:
+    padding: 5
+    button: hide
+    ofuscate: true
+    bg: danzafrica/2023-senegal.jpg
+  items:
+  - title: Baix Empordà
+    link: https://maps.google.com/maps?q=Baix+Emporda
+  - title: Vilafranca del Penedès
+    link: https://maps.google.com/maps?q=Vilafranca+del+Penedes
+  - title: Lleida
+    link: https://maps.google.com/maps?q=Lleida
+  - title: Valencia
+    link: https://maps.google.com/maps?q=Valencia
+  - title: Madrid
+    link: https://maps.google.com/maps?q=Madrid

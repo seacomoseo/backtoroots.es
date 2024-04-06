@@ -1,0 +1,79 @@
+title: Reseñas
+subtitle: dicen por ahí...
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: main
+    opacity: 30
+    slider: true
+    hide_bullets: true
+  items:
+  - title: Martinha
+    # image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+    description: |
+      Buenas! ¡Soy una de las brujitas que participo este akelarre en tu taller de danza afrik-ama y la verdad que ha sido de las principales cosas con las que me voy a quedar de esa maravillosa experiencia! No fui capaz de decírtelo en persona porqué estaba tremendamente emocionada y necesitaba digerir....
+
+      Pero quería decírtelo.
+
+      He vivo unos años en Tanzania, en Mozambique, mi pareja es afro-brasileiro...
+
+      He vivido mucho la cultura africana y disfruto su música y sus bailes.
+
+      He participado en muchos talleres, eventos, clases de baile múltiples y variadas... Etc.
+
+      Y aunque no destaco por bailar demasiado bien, destaco por disfrutarlo y reírme en todos los bailes y talleres en los que participio.
+
+      Y quería decirte que nunca antes, en mis 30 años, he asistido a un taller tan potente, tan completo, tan único, tan múltiple, tan diverso....
+
+      Tuvo de todo, risas, emoción, lloros, sensualidad, amor, fuerza....
+
+      ¡De todo! Sabía que me pasaría el finde llorando, pero nunca imaginé que empezaría en danza africana.
+
+      ¡Increíble Marta! ¡Impresionante! ¡¡Muchas gracias por la experiencia única la recordaré toda la vida!!
+  - title: Tania Ballesteros
+    # image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+    description: |
+      Hola guapa, soy Tania, no sé si te acordarás de mí, soy la chica que se despidió de ti dándote las gracias por mostrar tu vulnerabilidad en el taller de danza africana del Akelarre.
+
+      Me fui con mucha prisa y quería escribirte y darte las gracias otra vez.
+
+      Yo en principio no iba a ir a danza africana, estaba apuntada a otro taller, pero en el último momento sentí el impulso de ir y definitivamente fue un regalo.
+
+      Fue precioso bailar los ritmos africanos y explorar con el cuerpo.
+
+      El momento final me recordó a una historia pasada mía que me caló bastante profundo, soy una persona muy emocional y estoy aprendiendo a liberar y no reprimir mis emociones.
+
+      ¿Por qué te cuento esto? Porque cuando veo a alguien mostrar su vulnerabilidad en público, me veo a mí, y lo agradezco tanto que haya personas sin máscaras y personas que acojan y sostengan, no que intenten reprimir.
+
+      Me sentí muy culpable durante mucho tiempo por lo que pasó en mi pasado.
+
+      Y gracias a momentos así, me veo sostenida y acompañada.
+
+      Todas somos vulnerables y es de valientes mostrarlo.
+
+      Así que, de verdad, muchas gracias otra vez (y perdona por el sermón jajaja) pero quería decirte que me emocionó mucho tu taller con un poquito más de calma.
+
+      Un saludo y que tengas un feliz día preciosa!
+  - title: Linda Figures
+    # image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+    description: |
+      Porto un ritme frenètic amb nens, feina i casa però em bellugo molt poc, i la meva regla és fosca, poc abundant i sempre costa moltíssim fins que baixa del tot.
+
+      Doncs bé, dilluns vaig tenir la millor regla des de que soc mare!!! Vermella i bonica, abundant i preciosa! El meu cos també et dona les gràcies.
+
+      Per a mi el meu cicle és molt important i feia molt temps que no la sentia com aquet mes.
+
+      Així que a bellugar-me més al ritme de la Marta que això és una meravella.
+
+      Et vull donar les gràcies perquè feia molt de temps que no em sentia com el diumenge.
+
+      De veritat que va ser brutal.
+
+      Brutal la connexió amb la resta del grup, brutal tu! Brutal els percussionistes.
+
+      Marta ets pura energia!! En vull més i ho vull amb tu!
+# - type: columns
+#   items:
+#   - description: |
+#       [btn icon-star Más reseñas](https://g.page/webmurcia/review "noindex")

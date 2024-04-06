@@ -1,0 +1,29 @@
+title: Y además...
+subtitle: también ofrezco
+rows:
+
+- type: columns
+  design:
+    padding: 5
+    button: hide
+    ofuscate: true
+    bg: danzafrica/2023-senegal.jpg
+  items:
+  - title: Encuentros privados
+    subtitle: para celebraciones de bodas, cumpleaños, fiestas, etc
+    link: /#contacto
+  - title: Espectáculos
+    subtitle: contratados
+    link: /#contacto
+  - title: Viajes a Senegal
+    subtitle: organizados para mujeres
+    link: /#viajes
+
+- type: columns
+  design:
+    num: 1
+  items:
+  - title: Viajes a Senegal
+  - image: https://youtu.be/5g6Od4cTRkI#mute
+    more:
+      ratio: 16x9

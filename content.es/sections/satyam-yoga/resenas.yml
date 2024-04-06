@@ -1,5 +1,5 @@
 title: Reseñas
-subtitle: Dicen por ahí...
+subtitle: dicen por ahí...
 rows:
 - type: reviews
   design:
@@ -27,4 +27,4 @@ rows:
 # - type: columns
 #   items:
 #   - description: |
-#       [btn-light icon-star Más testimonios](https://g.page/webmurcia/review "noindex")
+#       [btn-light icon-star Más reseñas](https://g.page/webmurcia/review "noindex")

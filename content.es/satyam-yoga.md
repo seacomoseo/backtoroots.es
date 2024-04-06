@@ -2,13 +2,12 @@
 title: SaTyaM YoGa
 title_seo: SaTyaM YoGa - Clases y Retiros en Cataluña - BacK To RooTs
 slug: satyam-yoga
-description: '' # llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: llll➤ Un camino evolutivo hacia la autorrealización ✅ mediante la auto observación, la reflexión, el conocimiento y la experiencia personal.
 image: fondo.jpg
 draft: false
 noindex: false
-translationKey: home
+translationKey: satyam-yoga
 menu:
-  # transparent: false
   color: light
 general:
   color: light

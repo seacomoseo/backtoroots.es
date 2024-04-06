@@ -1,0 +1,15 @@
+title: Clases
+subtitle: regulares
+rows:
+- type: columns
+  design:
+    padding: 5
+    button: hide
+    ofuscate: true
+  items:
+  - title: Sumaya Palafrugell (Baix Empordà)
+    link: https://maps.google.com/maps?q=Sumaya+Palafrugell
+    bg: danzafrica/2023-senegal.jpg
+  - title: Corbera de Llobregat
+    link: https://maps.google.com/maps?q=Corbera+de+Llobregat
+    bg: danzafrica/2023-senegal.jpg

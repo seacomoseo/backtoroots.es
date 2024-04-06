@@ -1,5 +1,5 @@
-color: link-dark
-gradient: main-dark
+color: dark
+# gradient: main-dark
 more:
   divider: brush
   flip_x: false

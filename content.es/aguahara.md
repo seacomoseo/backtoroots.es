@@ -1,16 +1,26 @@
 ---
 title: AguAhArA
-title_seo: AguAhArA en Cataluña - Marta Rivas - BacK To RooTs
+title_seo: AguAhArA - Sesiones en Cataluña - BacK To RooTs
 slug: aguahara
-description: '' # llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: llll➤ Abre una nueva conexión contigo mism@, el mundo, la belleza, la tranquilidad y la paz. ✅ Menos racional, más sensorial, menos controlado, más fluido.
 image: fondo.jpg
 draft: false
 noindex: false
-translationKey: home
+translationKey: aguahara
+menu:
+  color: dark
+general:
+  color: black
+  bg: fondos/agua.webm
+  opacity: 50
+alternate:
+- bg: ''
+  color: light
 sections:
 - file: aguahara/header
   modals:
   - aguahara-mas
+- file: aguahara/sesiones
 - file: aguahara/resenas
 - file: aguahara/galeria
 ---
