@@ -10,11 +10,11 @@ translationKey: home
 general:
   color: link-dark
   # gradient: alt
-  # bg: fondos/espigas.mp4
+  bg: fondos/espigas.mp4
 alternate:
 - color: alt
 #   gradient: ''
-#   bg: ''
+  bg: ''
 sections:
 - file: inicio/header
 - file: inicio/maestrias
