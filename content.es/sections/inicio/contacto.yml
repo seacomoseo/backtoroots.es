@@ -1,5 +1,5 @@
 title: ConTacTo
-subtitle: ¡No pienses tanto!
+subtitle: no pienses tanto
 button: link
 size: sm
 rows:
@@ -7,9 +7,7 @@ rows:
   data:
   - type: phone
     label: +34 677 23 53 34
-    # button: light
   - type: whatsapp
-    # button: link
     label: +34 677 23 53 34
   - type: mail
     label: martaribas.orozco@gmail.com
@@ -20,7 +18,7 @@ rows:
     streetAddress: Ronda de Levante, 1
     postalCode: 30008
     addressLocality: Murcia
-    addressRegion: Murcia
+    addressRegion: Cataluña
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   form:
@@ -39,5 +37,5 @@ rows:
       required: true
   map:
     active: false
-    link: https://g.page/webmurcia
+    link: ''
     iframe: ''

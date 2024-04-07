@@ -1,5 +1,5 @@
 logo: ''
-color: main-dark
+color: alt-dark
 screen_sticky: 600
 size_sticky: ''
 articles_sticky: false
@@ -15,6 +15,12 @@ google_translate: false
 langs_in_more: false
 langs_out: true
 callnow_active: true
-callnow_buttons: []
+callnow_buttons:
+- type: custom
+  link: https://wa.me/34677235334
+  label: Coméntame lo que quieras, te leo
+  icon: whatsapp
+  button: whatsapp
+  ofuscate: true
 normal: []
 more: []

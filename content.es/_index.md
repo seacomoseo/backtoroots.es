@@ -7,6 +7,37 @@ image: fondo.jpg
 draft: false
 noindex: false
 translationKey: home
+menu:
+  size_sticky: xl
+  hide_anchors: true
+  items:
+    normal:
+    - label: SaTyaM YoGa
+      link: /satyam-yoga/
+    - label: DAnZÁFricA
+      link: /danzafrica/
+    - label: AguAhArA
+      link: /aguahara/
+    - label: CoNóCeMe
+      link: '#conoceme'
+    - label: ¿Te UnEs?
+      link: '#te-unes'
+      items:
+      - label: Retiros
+        link: '#retiros'
+      - label: Viajes
+        link: '#viajes'
+      - label: Eventos
+        link: '#eventos'
+      - label: Formaciones
+        link: '#formaciones'
+    - label: CoNóCeTe
+      link: '#conocete'
+    - label: ConTacTo
+      link: '#contacto'
+      button: link
+    - label: ¿SAbíAS qUé?
+      link: '#sabias-que'
 general:
   color: link-dark
   # gradient: alt

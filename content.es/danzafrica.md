@@ -8,6 +8,7 @@ draft: false
 noindex: false
 translationKey: danzafrica
 menu:
+  size_sticky: xl
   color: main-dark
 general:
   color: main-dark

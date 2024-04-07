@@ -5,7 +5,7 @@ content:
   uppercase: false
   underline: false
   align: left
-  color: light
+  color: alt-light
   toc_color: white
   border: ''
   reading_time: true

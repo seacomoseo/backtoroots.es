@@ -1,23 +1,29 @@
 title: ¿Te UnEs?
-subtitle: Calendario
+subtitle: todas las opciones
 rows:
 - type: columns
   design:
-    color: black
+    # color: black
     opacity: 50
-    padding: 3
+    # padding: 3
     link: '#ejemplo'
-    button: hide
+    # button: hide
+    ratio: 2x1
+    licon: none
   items:
-  - title: RETIROS
-    bg: satyam-yoga/2023-09-21-13-15-17.jpg
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: VIAJES
-    bg: danzafrica/2023-senegal.jpg
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: EVENTOS
-    bg: fondo.jpg
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - label: Viajes
+    image: danzafrica/2023-senegal.jpg
+    # description: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - label: Retiros
+    image: satyam-yoga/2023-09-21-13-15-17.jpg
+    # description: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - label: Eventos
+    image: fondo.jpg
+    # description: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - label: Formaciones
+    image: satyam-yoga/2022-01-05--76.jpg
+    # description: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

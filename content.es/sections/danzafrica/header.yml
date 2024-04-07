@@ -12,7 +12,7 @@ rows:
     align_y: top
     underline: true
   items:
-  - image: https://www.youtube.com/playlist?list=PLtqvZ-7n8QOZciCZk5TH3KZFIu0JzZ_Qw#poster=danzafrica/2021-09-26-22-12-18.jpg
+  - image: https://youtu.be/eu85ddLP888?list=PLtqvZ-7n8QOZciCZk5TH3KZFIu0JzZ_Qw#mute #poster=danzafrica/2021-09-26-22-12-18.jpg
     ratio: 16x9
     span: 3
     # description: |

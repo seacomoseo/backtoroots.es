@@ -1,5 +1,6 @@
 title: Galería
 subtitle: fotos
+size: xl
 rows:
 - type: gallery
   design:

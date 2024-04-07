@@ -1,12 +1,11 @@
 title: CoNóCeMe
-subtitle: ¿Quién soy yo?
-# bg: fondos/naturaleza.webm
+subtitle: quién soy yo
 rows:
 - type: columns
   design:
     gap: 3
   items:
-  - image: https://youtu.be/W6o5p8ukAqc#poster=2023-09-21-13-30-00.jpg
+  - image: https://youtu.be/W6o5p8ukAqc#mute #poster=2023-09-21-13-30-00.jpg
     ratio: 9x16
     span: 2
   - description: |

@@ -1,15 +1,40 @@
+anchor: Clases de Danza Africana
 title: Clases
 subtitle: regulares
 rows:
+
 - type: columns
   design:
-    padding: 5
-    button: hide
+    ratio: 16x9
+  items:
+  - description: |
+      <iframe src="https://www.google.com/maps/d/embed?mid=1-osOVyD1MCONdUTCrqGxjj0z5jNBzgw&ehbc=442201" width="640" height="480"></iframe>
+
+- type: columns
+  design:
+    # padding: 5
+    # button: hide
+    ratio: 16x9
     ofuscate: true
   items:
-  - title: Sumaya Palafrugell (Baix Empordà)
-    link: https://maps.google.com/maps?q=Sumaya+Palafrugell
-    bg: danzafrica/2023-senegal.jpg
-  - title: Corbera de Llobregat
-    link: https://maps.google.com/maps?q=Corbera+de+Llobregat
-    bg: danzafrica/2023-senegal.jpg
+  - title: Palafrugell # <br> Girona # (Baix Empordà)
+    subtitle: Sumaya Centre Alquimia
+    description: Mensuales
+    link: https://maps.app.goo.gl/RHswJTdTgZLGWdUM9
+    # image: https://lh5.googleusercontent.com/p/AF1QipNDVSY__WijX8Mj25pxUFNu9Mn0Hra4aPldJ380=w500
+  - title: Palamós # <br> Girona
+    subtitle: Escola de dansa Georgina Ors
+    description: Semanales
+    link: https://maps.app.goo.gl/hjP9FU7m6d6xEww86
+    # image: danzafrica/escola-de-dansa-georgina-ors.jpg
+  - title: Sant Cugat # <br> Barcelona
+    subtitle: Passeig Guineu, 91
+    description: Mensuales ¿?
+    link: https://maps.app.goo.gl/iG1PMsJxb6ivhktf9
+    # image: fondo.jpg
+
+# - type: contact
+#   map:
+#     active: true
+#     link: https://www.google.com/maps/d/viewer?mid=1-osOVyD1MCONdUTCrqGxjj0z5jNBzgw
+#     iframe: https://www.google.com/maps/d/embed?mid=1-osOVyD1MCONdUTCrqGxjj0z5jNBzgw&ehbc=442201
