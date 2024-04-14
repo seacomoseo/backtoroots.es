@@ -15,6 +15,7 @@ general:
   # gradient: black
   bg: danzafrica/2023-09-24--01.jpg
   opacity: 20
+  padding_bottom: 8
 alternate:
 - bg: ''
   # gradient: ''
@@ -24,7 +25,7 @@ sections:
   - danzafrica-mas
 - file: danzafrica/clases
 - file: danzafrica/encuentros
-- file: danzafrica/ademas
+- file: danzafrica/contrataciones
 - file: danzafrica/resenas
 - file: danzafrica/galeria
 ---

@@ -3,14 +3,24 @@ subtitle: individuales
 rows:
 - type: columns
   design:
-    padding: 5
-    button: hide
+    ratio: 4x3
+    underline: true
+    label: Ubicación
+    licon: location-dot
     ofuscate: true
-    bg: danzafrica/2023-senegal.jpg
   items:
-  - title: Sumaya Palafrugell (Baix Empordà)
+  - title: Sumaya Palafrugell
+    subtitle: Baix Empordà
     link: https://maps.google.com/maps?q=Sumaya+Palafrugell
-  - title: Balneari Prats (Caldes de Malavella)
-    link: https://maps.google.com/maps?q=Balneari+Prats
-  - title: Termes La Garriga (Barcelona)
-    link: https://maps.google.com/maps?q=Termes+La+Garriga
+    image: aguahara/sesiones/sumaya-palafrugell.jpeg
+  - title: Balneari Prats
+    subtitle: Caldes de Malavella
+    link: https://maps.google.com/maps?q=Hotel+Balneari+Prats
+    image: aguahara/sesiones/balneari-prats.jpg
+  - title: Termes La Garriga
+    subtitle: Barcelona
+    link: https://maps.google.com/maps?q=Hotel+Termes+La+Garriga
+    image: aguahara/sesiones/hotel-termes-la-garriga.jpg
+
+
+

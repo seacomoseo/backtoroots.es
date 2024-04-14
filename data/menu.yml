@@ -1,10 +1,10 @@
 logo: ''
 color: alt-dark
 screen_sticky: 600
-size_sticky: ''
+size_sticky: xl
 articles_sticky: false
 transparent: true
-hide_anchors: false
+hide_anchors: true
 hide_icons: true
 show_modals: false
 show_blog_auto: false
@@ -22,5 +22,43 @@ callnow_buttons:
   icon: whatsapp
   button: whatsapp
   ofuscate: true
-normal: []
+normal:
+- label: InIcIo
+  link: /
+  anchor: Back to Roots
+- label: SaTyaM YoGa
+  link: /satyam-yoga/
+  anchor: Clases de Satyam Yoga en Cataluña
+- label: DAnZÁFricA
+  link: /danzafrica/
+  anchor: Danza Africana en Cataluña
+- label: AguAhArA
+  link: /aguahara/
+  anchor: Sesiones de Aguahara en Cataluña
+- label: CoNóCeMe
+  link: /#conoceme
+- label: ReTiRoS
+  link: /#retiros
+  anchor: Retiros espirituales de lujo (Yoga, Danza Africana y Aguahara)
+- label: ViAjEs
+  link: /#viajes-senegal
+  anchor: Viajes organizados a Senegal para mujeres
+# - label: ¿Te UnEs?
+#   link: /#te-unes
+#   items:
+#   - label: Retiros
+#     link: /#retiros
+#   - label: Viajes
+#     link: /#viajes
+#   - label: Eventos
+#     link: /#eventos
+#   - label: Formaciones
+#     link: /#formaciones
+- label: CoNóCeTe
+  link: /#conocete
+- label: ConTacTo
+  link: /#contacto
+  button: link
+- label: Blog
+  link: /blog/
 more: []

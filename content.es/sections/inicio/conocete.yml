@@ -3,5 +3,5 @@ subtitle: atrévete a indagar dentro de ti
 rows:
 - type: columns
   items:
-  - description: |
-      ¡Aquí se mola, sí o sí!
+  - link: '#test-doshas'
+    label: Test Doshas

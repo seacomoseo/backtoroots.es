@@ -1,0 +1,307 @@
+id: test-doshas
+anchor: Test Doshas
+title: ¿Sabes cuál es tu Dosha?
+subtitle: Test
+more:
+  align: center
+description: |
+  Aquí te dejo un test cuyas respuestas te ayudarán a identificar, no sólo cómo eres, sino por qué eres así
+
+  Antes puede que te interese saber y entender de dónde viene esto:
+
+  [btn Ayurbeda Resumen](/ayurbeda-resumen/)
+
+  Ahora sí, el test:
+rows:
+- type: contact
+  action: ''
+  form:
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+
+    - type: radio
+      name: Textura de la piel
+      required: true
+      options:
+      - option: Seca, áspera, fría, rugosa, venas prominentes
+      - option: Caliente, grasosa, húmeda, pecas, acné
+      - option: Gruesa, fría, bien lubricada
+
+    - type: radio
+      name: Brillo de la piel
+      required: true
+      options:
+      - option: Mate
+      - option: Rojo, ilustroso
+      - option: Blanco, pálido
+
+    - type: radio
+      name: Temperatura del cuerpo
+      required: true
+      options:
+      - option: Manos y pies fríos
+      - option: Caliente
+      - option: Frío o normal
+
+    - type: radio
+      name: Peso
+      required: true
+      options:
+      - option: Dificultad para subir de peso
+      - option: Mediano, pueden ganar o perder peso con facilidad
+      - option: Generalmente con sobrepeso, dificultad para perderlo
+
+    - type: radio
+      name: Contextura
+      required: true
+      options:
+      - option: Delgado, huesos finos
+      - option: Moderada
+      - option: Grande, robusto, bien desarrollado
+
+    - type: radio
+      name: Estatura
+      required: true
+      options:
+      - option: Muy alto o muy pequeño
+      - option: Mediana
+      - option: Generalmente pequeños, pero pueden ser altos y grandes
+
+    - type: radio
+      name: Torax
+      required: true
+      options:
+      - option: Estrecho
+      - option: Desarrollado moderado
+      - option: Ancho, bien desarrollado
+
+    - type: radio
+      name: Pelo
+      required: true
+      options:
+      - option: Seco, fino, encrespado
+      - option: Oleoso, calvicis prematura, canoso
+      - option: Fuerte, ondulado, lustroso
+
+    - type: radio
+      name: Frente
+      required: true
+      options:
+      - option: Estrecha
+      - option: Moderada, surcos
+      - option: Ancha
+
+    - type: radio
+      name: Ojos
+      required: true
+      options:
+      - option: Pequeños, nerviosos
+      - option: Penetrantes, se irritan con facilidad
+      - option: Grandes, atractivos, pestañas grandes
+
+    - type: radio
+      name: Dientes
+      required: true
+      options:
+      - option: Irregulares, pequeños, mal formados
+      - option: Regulares, las encías sangran con facilidad
+      - option: Grandes, bien formados
+
+    - type: radio
+      name: Lengua
+      required: true
+      options:
+      - option: Áspera
+      - option: Suave, rosada
+      - option: Gruesa
+
+    - type: radio
+      name: Cara
+      required: true
+      options:
+      - option: Pequeña, arrugada, seca
+      - option: Delicada, rojiza, perfil agudo
+      - option: Grande, agradable, perfil suave
+
+    - type: radio
+      name: Huesos
+      required: true
+      options:
+      - option: Delgados, articulaciones crujientes
+      - option: Medianos, articulaciones flojas
+      - option: Gruesos, articulaciones fuertes
+
+    - type: radio
+      name: Uñas
+      required: true
+      options:
+      - option: Quebradizas, ásperas
+      - option: Suaves, rosadas
+      - option: Ancha
+
+    - type: radio
+      name: Sed
+      required: true
+      options:
+      - option: Escasa
+      - option: Generalmente sediento
+      - option: Moderada
+
+    - type: radio
+      name: Hábitos intestinales
+      required: true
+      options:
+      - option: Heces duras, secas, estreñimiento
+      - option: Heces suaves, sueltas, tendencia a la diarrea
+      - option: Regular, heces normales
+
+    - type: radio
+      name: Orina
+      required: true
+      options:
+      - option: Escasa
+      - option: Abundante, amarilla intensa
+      - option: Moderada, clara
+
+    - type: radio
+      name: Sudorcaión
+      required: true
+      options:
+      - option: Escasa sin olor
+      - option: Profundo olor intenso
+      - option: Moderada
+
+    - type: radio
+      name: Memoria
+      required: true
+      options:
+      - option: Rápida, tendencia a olvidar
+      - option: Aguda, clara
+      - option: Lenta pero constante
+
+    - type: radio
+      name: Comprensión
+      required: true
+      options:
+      - option: Espontánea
+      - option: Promedio
+      - option: Requiere tiempo para comprender
+
+    - type: radio
+      name: Sexualidad
+      required: true
+      options:
+      - option: Interés sexual variable, fantasía sexual activa
+      - option: Interés e impulso sexual alto
+      - option: Interés e impulso sexual constante 
+
+    - type: radio
+      name: Actividad
+      required: true
+      options:
+      - option: Inquieto, quiere hace mucho a la vez
+      - option: Moderado
+      - option: Se mueve lentamente
+
+    - type: radio
+      name: Temperamento
+      required: true
+      options:
+      - option: Nervioso, cambiable
+      - option: Motivado, intenso
+      - option: Conservador
+
+    - type: radio
+      name: Estado de ánimo
+      required: true
+      options:
+      - option: Ideas y estado de ánimo cambiables
+      - option: Intenso al expresar ideas y sentimientos
+      - option: Estable, confiable, lento para cambiar ideas
+
+    - type: radio
+      name: Reacción al estrés
+      required: true
+      options:
+      - option: Miedo y ansiedad bajo estrés
+      - option: Frustración, irritabilidad, enojo abajo estrés
+      - option: Lleva bien la presión y el estrés
+
+    - type: radio
+      name: Sueño
+      required: true
+      options:
+      - option: Ligero, con interrupciones
+      - option: Variable
+      - option: Profundo, excesivo
+
+    - type: radio
+      name: Emociones positivas
+      required: true
+      options:
+      - option: Adaptabilidad
+      - option: Valor, coraje
+      - option: Amor
+
+    - type: radio
+      name: Emociones negativas
+      required: true
+      options:
+      - option: Miedo
+      - option: Cólera
+      - option: Apego
+
+    - type: radio
+      name: Apetito
+      required: true
+      options:
+      - option: Variable, nervioso
+      - option: Grande, irritable si debe saltar la comida
+      - option: Moderado pero constante
+
+    - type: radio
+      name: Resistencia a la enfermedad
+      required: true
+      options:
+      - option: Pobre, sistema inmunológico variable
+      - option: Mediana, tendencia a las infecciones
+      - option: Buena, consistente, sistema inmunológico fuerte
+
+    - type: radio
+      name: Enfermedades frecuentes
+      required: true
+      options:
+      - option: Alteraciones nerviosas y mentales, dolores neurálgicos y de las articulaciones
+      - option: Enfermedades infecciosas e inflamatorias, trastornos sanguíneos
+      - option: Enfermedades sistemáticas y respiratorias, edema, mucosidades, inflamación articular
+
+    - type: radio
+      name: Le disgusta
+      required: true
+      options:
+      - option: El frío, la sequedad
+      - option: Substancias y atmosfera caliente
+      - option: Sustancias frías y aceitosas, atmósfera húmeda
+
+    - type: radio
+      name: Preferencias climáticas
+      required: true
+      options:
+      - option: Climas calientes, sol, humedad
+      - option: Climas fríos bien ventilados
+      - option: Cualquier clima siempre que no sea húmedo
+    - type: radio
+      name: Fe
+      required: true
+      options:
+      - option: Variable, errática
+      - option: Fuerte, determinado
+      - option: Sostenida, lenta de cambiar
+
+    - type: hidden
+      name: Resultado

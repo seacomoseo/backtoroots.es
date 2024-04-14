@@ -27,7 +27,18 @@ rows:
   - image: https://youtu.be/T65GmlqwjUE#mute
     span: 2
   - image: icon.svg
+    more:
+      ratio: 2x1
     title: BacK To RooTs
     subtitle: vuelta al origen
     description: |
-      [btn Próximos viajes](#viajes)
+      Próximos viajes a Senegal:
+
+      | Inicio                        | Fin                          |
+      | ----------------------------- | :--------------------------- |
+      | icon-calendar-check 27 abril  | icon-calendar-xmark 7 mayo   |
+      | icon-calendar-check 14 mayo   | icon-calendar-xmark 25 mayo  |
+      | icon-calendar-check 29 junio  | icon-calendar-xmark 13 julio |
+      | icon-calendar-check noviembre | por definir                  |
+
+      [btn icon-plus Más información](#viajes-senegal)

@@ -15,9 +15,6 @@ general:
   opacity: 50
 alternate:
 - bg: ''
-  divider: ''
-- bg: ''
-  padding_top: 2
   padding_bottom: 8
 sections:
 - file: satyam-yoga/header

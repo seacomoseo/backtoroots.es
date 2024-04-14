@@ -59,6 +59,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+// Form radio column direction
+
+.contact__form-fieldset {
+  flex-direction: column;
+}
+
+
 // Header Animations
 
 #header {

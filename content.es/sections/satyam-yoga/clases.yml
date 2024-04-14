@@ -3,13 +3,16 @@ subtitle: regulares
 rows:
 - type: columns
   design:
-    padding: 5
-    button: hide
+    num: 3
+    ratio: 16x9
+    underline: true
+    label: Ubicación
+    licon: location-dot
     ofuscate: true
   items:
-  - title: Baix Empordà S
-    link: https://maps.google.com/maps?q=Baix+Emporda+S
-    bg: danzafrica/2023-senegal.jpg
+  - title: Baix Empordà
+    link: https://maps.google.com/maps?q=Baix+Emporda
+    image: satyam-yoga/clases/baix-emporda.jpg
   - title: Sant Cugat del Vallès
     link: https://maps.google.com/maps?q=Sant+Cugat+del+Valles
-    bg: danzafrica/2023-senegal.jpg
+    image: satyam-yoga/clases/sant-cugat-del-valles.jpg

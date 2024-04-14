@@ -1,0 +1,36 @@
+id: viajes-senegal
+anchor: Viajes a Senegal organizados para mujeres
+title: Viajes a Senegal
+subtitle: Próximas fechas
+image: https://youtu.be/5g6Od4cTRkI#mute
+size: md
+more:
+  align: center
+description: |
+  | Inicio                        | Fin                          |
+  | ----------------------------- | :--------------------------- |
+  | icon-calendar-check 27 abril  | icon-calendar-xmark 7 mayo   |
+  | icon-calendar-check 14 mayo   | icon-calendar-xmark 25 mayo  |
+  | icon-calendar-check 29 junio  | icon-calendar-xmark 13 julio |
+  | icon-calendar-check noviembre | por definir                  |
+
+  [btn icon-file-pdf Más información](pdf/viaje-senegal-2024.pdf)
+rows:
+- type: gallery
+  design:
+    num: 3
+    gap: true
+    alt: true
+    button: hide
+  images:
+  - senegal/01.jpg
+  - senegal/02.jpg
+  - senegal/03.jpg
+  - senegal/04.jpg
+  - senegal/05.jpg
+  - senegal/06.jpg
+  - senegal/07.jpg
+  - senegal/08.jpg
+  - senegal/09.jpg
+  - senegal/10.jpg
+  - senegal/11.jpg

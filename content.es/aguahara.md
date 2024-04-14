@@ -16,6 +16,7 @@ general:
 alternate:
 - bg: ''
   color: light
+  padding_bottom: 8
 sections:
 - file: aguahara/header
   modals:
