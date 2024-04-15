@@ -9,13 +9,13 @@ description: |
 
   Antes puede que te interese saber y entender de dónde viene esto:
 
-  [btn Ayurbeda Resumen](/ayurbeda-resumen/)
+  [btn Ayurbeda Resumen]/.yurbeda-resumen/)
 
   Ahora sí, el test:
 rows:
 - type: contact
   form:
-    action: https://formsubmit.co/martaribas.orozco@gmail.com
+    action: https://formsubmit.co/8eedb08a8d9a83b95783e26406aad2c8
     items:
     - type: text
       name: Nombre
@@ -30,247 +30,247 @@ rows:
       name: Textura de la piel
       required: true
       options:
-      - option: Seca, áspera, fría, rugosa, venas prominentes
-      - option: Caliente, grasosa, húmeda, pecas, acné
-      - option: Gruesa, fría, bien lubricada
+      - option: 1. Seca, áspera, fría, rugosa, venas prominentes
+      - option: 2. Caliente, grasosa, húmeda, pecas, acné
+      - option: 3. Gruesa, fría, bien lubricada
 
     - type: radio
       name: Brillo de la piel
       options:
-      - option: Mate
-      - option: Rojo, ilustroso
-      - option: Blanco, pálido
+      - option: 1. Mate
+      - option: 2. Rojo, ilustroso
+      - option: 3. Blanco, pálido
 
     - type: radio
       name: Temperatura del cuerpo
       options:
-      - option: Manos y pies fríos
-      - option: Caliente
-      - option: Frío o normal
+      - option: 1. Manos y pies fríos
+      - option: 2. Caliente
+      - option: 3. Frío o normal
 
     - type: radio
       name: Peso
       options:
-      - option: Dificultad para subir de peso
-      - option: Mediano, pueden ganar o perder peso con facilidad
-      - option: Generalmente con sobrepeso, dificultad para perderlo
+      - option: 1. Dificultad para subir de peso
+      - option: 2. Mediano, pueden ganar o perder peso con facilidad
+      - option: 3. Generalmente con sobrepeso, dificultad para perderlo
 
     - type: radio
       name: Contextura
       options:
-      - option: Delgado, huesos finos
-      - option: Moderada
-      - option: Grande, robusto, bien desarrollado
+      - option: 1. Delgado, huesos finos
+      - option: 2. Moderada
+      - option: 3. Grande, robusto, bien desarrollado
 
     - type: radio
       name: Estatura
       options:
-      - option: Muy alto o muy pequeño
-      - option: Mediana
-      - option: Generalmente pequeños, pero pueden ser altos y grandes
+      - option: 1. Muy alto o muy pequeño
+      - option: 2. Mediana
+      - option: 3. Generalmente pequeños, pero pueden ser altos y grandes
 
     - type: radio
       name: Torax
       options:
-      - option: Estrecho
-      - option: Desarrollado moderado
-      - option: Ancho, bien desarrollado
+      - option: 1. Estrecho
+      - option: 2. Desarrollado moderado
+      - option: 3. Ancho, bien desarrollado
 
     - type: radio
       name: Pelo
       options:
-      - option: Seco, fino, encrespado
-      - option: Oleoso, calvicis prematura, canoso
-      - option: Fuerte, ondulado, lustroso
+      - option: 1. Seco, fino, encrespado
+      - option: 2. Oleoso, calvicis prematura, canoso
+      - option: 3. Fuerte, ondulado, lustroso
 
     - type: radio
       name: Frente
       options:
-      - option: Estrecha
-      - option: Moderada, surcos
-      - option: Ancha
+      - option: 1. Estrecha
+      - option: 2. Moderada, surcos
+      - option: 3. Ancha
 
     - type: radio
       name: Ojos
       options:
-      - option: Pequeños, nerviosos
-      - option: Penetrantes, se irritan con facilidad
-      - option: Grandes, atractivos, pestañas grandes
+      - option: 1. Pequeños, nerviosos
+      - option: 2. Penetrantes, se irritan con facilidad
+      - option: 3. Grandes, atractivos, pestañas grandes
 
     - type: radio
       name: Dientes
       options:
-      - option: Irregulares, pequeños, mal formados
-      - option: Regulares, las encías sangran con facilidad
-      - option: Grandes, bien formados
+      - option: 1. Irregulares, pequeños, mal formados
+      - option: 2. Regulares, las encías sangran con facilidad
+      - option: 3. Grandes, bien formados
 
     - type: radio
       name: Lengua
       options:
-      - option: Áspera
-      - option: Suave, rosada
-      - option: Gruesa
+      - option: 1. Áspera
+      - option: 2. Suave, rosada
+      - option: 3. Gruesa
 
     - type: radio
       name: Cara
       options:
-      - option: Pequeña, arrugada, seca
-      - option: Delicada, rojiza, perfil agudo
-      - option: Grande, agradable, perfil suave
+      - option: 1. Pequeña, arrugada, seca
+      - option: 2. Delicada, rojiza, perfil agudo
+      - option: 3. Grande, agradable, perfil suave
 
     - type: radio
       name: Huesos
       options:
-      - option: Delgados, articulaciones crujientes
-      - option: Medianos, articulaciones flojas
-      - option: Gruesos, articulaciones fuertes
+      - option: 1. Delgados, articulaciones crujientes
+      - option: 2. Medianos, articulaciones flojas
+      - option: 3. Gruesos, articulaciones fuertes
 
     - type: radio
       name: Uñas
       options:
-      - option: Quebradizas, ásperas
-      - option: Suaves, rosadas
-      - option: Ancha
+      - option: 1. Quebradizas, ásperas
+      - option: 2. Suaves, rosadas
+      - option: 3. Ancha
 
     - type: radio
       name: Sed
       options:
-      - option: Escasa
-      - option: Generalmente sediento
-      - option: Moderada
+      - option: 1. Escasa
+      - option: 2. Generalmente sediento
+      - option: 3. Moderada
 
     - type: radio
       name: Hábitos intestinales
       options:
-      - option: Heces duras, secas, estreñimiento
-      - option: Heces suaves, sueltas, tendencia a la diarrea
-      - option: Regular, heces normales
+      - option: 1. Heces duras, secas, estreñimiento
+      - option: 2. Heces suaves, sueltas, tendencia a la diarrea
+      - option: 3. Regular, heces normales
 
     - type: radio
       name: Orina
       options:
-      - option: Escasa
-      - option: Abundante, amarilla intensa
-      - option: Moderada, clara
+      - option: 1. Escasa
+      - option: 2. Abundante, amarilla intensa
+      - option: 3. Moderada, clara
 
     - type: radio
       name: Sudorcaión
       options:
-      - option: Escasa sin olor
-      - option: Profundo olor intenso
-      - option: Moderada
+      - option: 1. Escasa sin olor
+      - option: 2. Profundo olor intenso
+      - option: 3. Moderada
 
     - type: radio
       name: Memoria
       options:
-      - option: Rápida, tendencia a olvidar
-      - option: Aguda, clara
-      - option: Lenta pero constante
+      - option: 1. Rápida, tendencia a olvidar
+      - option: 2. Aguda, clara
+      - option: 3. Lenta pero constante
 
     - type: radio
       name: Comprensión
       options:
-      - option: Espontánea
-      - option: Promedio
-      - option: Requiere tiempo para comprender
+      - option: 1. Espontánea
+      - option: 2. Promedio
+      - option: 3. Requiere tiempo para comprender
 
     - type: radio
       name: Sexualidad
       options:
-      - option: Interés sexual variable, fantasía sexual activa
-      - option: Interés e impulso sexual alto
-      - option: Interés e impulso sexual constante 
+      - option: 1. Interés sexual variable, fantasía sexual activa
+      - option: 2. Interés e impulso sexual alto
+      - option: 3. Interés e impulso sexual constante 
 
     - type: radio
       name: Actividad
       options:
-      - option: Inquieto, quiere hace mucho a la vez
-      - option: Moderado
-      - option: Se mueve lentamente
+      - option: 1. Inquieto, quiere hace mucho a la vez
+      - option: 2. Moderado
+      - option: 3. Se mueve lentamente
 
     - type: radio
       name: Temperamento
       options:
-      - option: Nervioso, cambiable
-      - option: Motivado, intenso
-      - option: Conservador
+      - option: 1. Nervioso, cambiable
+      - option: 2. Motivado, intenso
+      - option: 3. Conservador
 
     - type: radio
       name: Estado de ánimo
       options:
-      - option: Ideas y estado de ánimo cambiables
-      - option: Intenso al expresar ideas y sentimientos
-      - option: Estable, confiable, lento para cambiar ideas
+      - option: 1. Ideas y estado de ánimo cambiables
+      - option: 2. Intenso al expresar ideas y sentimientos
+      - option: 3. Estable, confiable, lento para cambiar ideas
 
     - type: radio
       name: Reacción al estrés
       options:
-      - option: Miedo y ansiedad bajo estrés
-      - option: Frustración, irritabilidad, enojo abajo estrés
-      - option: Lleva bien la presión y el estrés
+      - option: 1. Miedo y ansiedad bajo estrés
+      - option: 2. Frustración, irritabilidad, enojo abajo estrés
+      - option: 3. Lleva bien la presión y el estrés
 
     - type: radio
       name: Sueño
       options:
-      - option: Ligero, con interrupciones
-      - option: Variable
-      - option: Profundo, excesivo
+      - option: 1. Ligero, con interrupciones
+      - option: 2. Variable
+      - option: 3. Profundo, excesivo
 
     - type: radio
       name: Emociones positivas
       options:
-      - option: Adaptabilidad
-      - option: Valor, coraje
-      - option: Amor
+      - option: 1. Adaptabilidad
+      - option: 2. Valor, coraje
+      - option: 3. Amor
 
     - type: radio
       name: Emociones negativas
       options:
-      - option: Miedo
-      - option: Cólera
-      - option: Apego
+      - option: 1. Miedo
+      - option: 2. Cólera
+      - option: 3. Apego
 
     - type: radio
       name: Apetito
       options:
-      - option: Variable, nervioso
-      - option: Grande, irritable si debe saltar la comida
-      - option: Moderado pero constante
+      - option: 1. Variable, nervioso
+      - option: 2. Grande, irritable si debe saltar la comida
+      - option: 3. Moderado pero constante
 
     - type: radio
       name: Resistencia a la enfermedad
       options:
-      - option: Pobre, sistema inmunológico variable
-      - option: Mediana, tendencia a las infecciones
-      - option: Buena, consistente, sistema inmunológico fuerte
+      - option: 1. Pobre, sistema inmunológico variable
+      - option: 2. Mediana, tendencia a las infecciones
+      - option: 3. Buena, consistente, sistema inmunológico fuerte
 
     - type: radio
       name: Enfermedades frecuentes
       options:
-      - option: Alteraciones nerviosas y mentales, dolores neurálgicos y de las articulaciones
-      - option: Enfermedades infecciosas e inflamatorias, trastornos sanguíneos
-      - option: Enfermedades sistemáticas y respiratorias, edema, mucosidades, inflamación articular
+      - option: 1. Alteraciones nerviosas y mentales, dolores neurálgicos y de las articulaciones
+      - option: 2. Enfermedades infecciosas e inflamatorias, trastornos sanguíneos
+      - option: 3. Enfermedades sistemáticas y respiratorias, edema, mucosidades, inflamación articular
 
     - type: radio
       name: Le disgusta
       options:
-      - option: El frío, la sequedad
-      - option: Substancias y atmosfera caliente
-      - option: Sustancias frías y aceitosas, atmósfera húmeda
+      - option: 1. El frío, la sequedad
+      - option: 2. Substancias y atmosfera caliente
+      - option: 3. Sustancias frías y aceitosas, atmósfera húmeda
 
     - type: radio
       name: Preferencias climáticas
       options:
-      - option: Climas calientes, sol, humedad
-      - option: Climas fríos bien ventilados
-      - option: Cualquier clima siempre que no sea húmedo
+      - option: 1. Climas calientes, sol, humedad
+      - option: 2. Climas fríos bien ventilados
+      - option: 3. Cualquier clima siempre que no sea húmedo
 
     - type: radio
       name: Fe
       options:
-      - option: Variable, errática
-      - option: Fuerte, determinado
-      - option: Sostenida, lenta de cambiar
+      - option: 1. Variable, errática
+      - option: 2. Fuerte, determinado
+      - option: 3. Sostenida, lenta de cambiar
 
     - type: hidden
       name: Resultado
