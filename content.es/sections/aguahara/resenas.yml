@@ -96,7 +96,7 @@ rows:
     # image: aguahara/resenas/valerie.jpg
     description: |
       Para mí ha sido un viaje muy lejos y muy intenso a la vez que una relajación y paz absoluta
-# - type: columns
-#   items:
-#   - description: |
-#       [btn icon-star Más reseñas](https://g.page/webmurcia/review "noindex")
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más reseñas](https://g.page/r/CYztzzviHI_kEBM/review "noindex")

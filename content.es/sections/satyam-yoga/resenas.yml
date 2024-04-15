@@ -24,7 +24,7 @@ rows:
     image: satyam-yoga/resenas/isa.jpg
     description: |
       La meditación guiada con marta es indescriptible. Tras haber probado sin éxito otras sesiones puedo decir que gracias a sus técnicas, conocimiento como maestra y su ayuda, vivi y sentí una meditación real, consciente y profunda que sumado a unas técnicas de respiración sorprendentes han supuesto una nueva etapa en mi vida. No tengo palabras para expresar toda mi gratitud.
-# - type: columns
-#   items:
-#   - description: |
-#       [btn-light icon-star Más reseñas](https://g.page/webmurcia/review "noindex")
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más reseñas](https://g.page/r/CYztzzviHI_kEBM/review "noindex")

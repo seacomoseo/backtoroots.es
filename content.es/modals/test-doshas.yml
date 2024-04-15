@@ -14,8 +14,8 @@ description: |
   Ahora sí, el test:
 rows:
 - type: contact
-  action: ''
   form:
+    action: https://formsubmit.co/martaribas.orozco@gmail.com
     items:
     - type: text
       name: Nombre
@@ -23,6 +23,8 @@ rows:
     - type: email
       name: Email
       required: true
+    - type: hidden
+      name: _cc
 
     - type: radio
       name: Textura de la piel
@@ -34,7 +36,6 @@ rows:
 
     - type: radio
       name: Brillo de la piel
-      required: true
       options:
       - option: Mate
       - option: Rojo, ilustroso
@@ -42,7 +43,6 @@ rows:
 
     - type: radio
       name: Temperatura del cuerpo
-      required: true
       options:
       - option: Manos y pies fríos
       - option: Caliente
@@ -50,7 +50,6 @@ rows:
 
     - type: radio
       name: Peso
-      required: true
       options:
       - option: Dificultad para subir de peso
       - option: Mediano, pueden ganar o perder peso con facilidad
@@ -58,7 +57,6 @@ rows:
 
     - type: radio
       name: Contextura
-      required: true
       options:
       - option: Delgado, huesos finos
       - option: Moderada
@@ -66,7 +64,6 @@ rows:
 
     - type: radio
       name: Estatura
-      required: true
       options:
       - option: Muy alto o muy pequeño
       - option: Mediana
@@ -74,7 +71,6 @@ rows:
 
     - type: radio
       name: Torax
-      required: true
       options:
       - option: Estrecho
       - option: Desarrollado moderado
@@ -82,7 +78,6 @@ rows:
 
     - type: radio
       name: Pelo
-      required: true
       options:
       - option: Seco, fino, encrespado
       - option: Oleoso, calvicis prematura, canoso
@@ -90,7 +85,6 @@ rows:
 
     - type: radio
       name: Frente
-      required: true
       options:
       - option: Estrecha
       - option: Moderada, surcos
@@ -98,7 +92,6 @@ rows:
 
     - type: radio
       name: Ojos
-      required: true
       options:
       - option: Pequeños, nerviosos
       - option: Penetrantes, se irritan con facilidad
@@ -106,7 +99,6 @@ rows:
 
     - type: radio
       name: Dientes
-      required: true
       options:
       - option: Irregulares, pequeños, mal formados
       - option: Regulares, las encías sangran con facilidad
@@ -114,7 +106,6 @@ rows:
 
     - type: radio
       name: Lengua
-      required: true
       options:
       - option: Áspera
       - option: Suave, rosada
@@ -122,7 +113,6 @@ rows:
 
     - type: radio
       name: Cara
-      required: true
       options:
       - option: Pequeña, arrugada, seca
       - option: Delicada, rojiza, perfil agudo
@@ -130,7 +120,6 @@ rows:
 
     - type: radio
       name: Huesos
-      required: true
       options:
       - option: Delgados, articulaciones crujientes
       - option: Medianos, articulaciones flojas
@@ -138,7 +127,6 @@ rows:
 
     - type: radio
       name: Uñas
-      required: true
       options:
       - option: Quebradizas, ásperas
       - option: Suaves, rosadas
@@ -146,7 +134,6 @@ rows:
 
     - type: radio
       name: Sed
-      required: true
       options:
       - option: Escasa
       - option: Generalmente sediento
@@ -154,7 +141,6 @@ rows:
 
     - type: radio
       name: Hábitos intestinales
-      required: true
       options:
       - option: Heces duras, secas, estreñimiento
       - option: Heces suaves, sueltas, tendencia a la diarrea
@@ -162,7 +148,6 @@ rows:
 
     - type: radio
       name: Orina
-      required: true
       options:
       - option: Escasa
       - option: Abundante, amarilla intensa
@@ -170,7 +155,6 @@ rows:
 
     - type: radio
       name: Sudorcaión
-      required: true
       options:
       - option: Escasa sin olor
       - option: Profundo olor intenso
@@ -178,7 +162,6 @@ rows:
 
     - type: radio
       name: Memoria
-      required: true
       options:
       - option: Rápida, tendencia a olvidar
       - option: Aguda, clara
@@ -186,7 +169,6 @@ rows:
 
     - type: radio
       name: Comprensión
-      required: true
       options:
       - option: Espontánea
       - option: Promedio
@@ -194,7 +176,6 @@ rows:
 
     - type: radio
       name: Sexualidad
-      required: true
       options:
       - option: Interés sexual variable, fantasía sexual activa
       - option: Interés e impulso sexual alto
@@ -202,7 +183,6 @@ rows:
 
     - type: radio
       name: Actividad
-      required: true
       options:
       - option: Inquieto, quiere hace mucho a la vez
       - option: Moderado
@@ -210,7 +190,6 @@ rows:
 
     - type: radio
       name: Temperamento
-      required: true
       options:
       - option: Nervioso, cambiable
       - option: Motivado, intenso
@@ -218,7 +197,6 @@ rows:
 
     - type: radio
       name: Estado de ánimo
-      required: true
       options:
       - option: Ideas y estado de ánimo cambiables
       - option: Intenso al expresar ideas y sentimientos
@@ -226,7 +204,6 @@ rows:
 
     - type: radio
       name: Reacción al estrés
-      required: true
       options:
       - option: Miedo y ansiedad bajo estrés
       - option: Frustración, irritabilidad, enojo abajo estrés
@@ -234,7 +211,6 @@ rows:
 
     - type: radio
       name: Sueño
-      required: true
       options:
       - option: Ligero, con interrupciones
       - option: Variable
@@ -242,7 +218,6 @@ rows:
 
     - type: radio
       name: Emociones positivas
-      required: true
       options:
       - option: Adaptabilidad
       - option: Valor, coraje
@@ -250,7 +225,6 @@ rows:
 
     - type: radio
       name: Emociones negativas
-      required: true
       options:
       - option: Miedo
       - option: Cólera
@@ -258,7 +232,6 @@ rows:
 
     - type: radio
       name: Apetito
-      required: true
       options:
       - option: Variable, nervioso
       - option: Grande, irritable si debe saltar la comida
@@ -266,7 +239,6 @@ rows:
 
     - type: radio
       name: Resistencia a la enfermedad
-      required: true
       options:
       - option: Pobre, sistema inmunológico variable
       - option: Mediana, tendencia a las infecciones
@@ -274,7 +246,6 @@ rows:
 
     - type: radio
       name: Enfermedades frecuentes
-      required: true
       options:
       - option: Alteraciones nerviosas y mentales, dolores neurálgicos y de las articulaciones
       - option: Enfermedades infecciosas e inflamatorias, trastornos sanguíneos
@@ -282,7 +253,6 @@ rows:
 
     - type: radio
       name: Le disgusta
-      required: true
       options:
       - option: El frío, la sequedad
       - option: Substancias y atmosfera caliente
@@ -290,14 +260,13 @@ rows:
 
     - type: radio
       name: Preferencias climáticas
-      required: true
       options:
       - option: Climas calientes, sol, humedad
       - option: Climas fríos bien ventilados
       - option: Cualquier clima siempre que no sea húmedo
+
     - type: radio
       name: Fe
-      required: true
       options:
       - option: Variable, errática
       - option: Fuerte, determinado

@@ -10,7 +10,6 @@ rows:
     hide_bullets: true
   items:
   - title: Martinha
-    # image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
     description: |
       Buenas! ¡Soy una de las brujitas que participo este akelarre en tu taller de danza afrik-ama y la verdad que ha sido de las principales cosas con las que me voy a quedar de esa maravillosa experiencia! No fui capaz de decírtelo en persona porqué estaba tremendamente emocionada y necesitaba digerir....
 
@@ -32,7 +31,6 @@ rows:
 
       ¡Increíble Marta! ¡Impresionante! ¡¡Muchas gracias por la experiencia única la recordaré toda la vida!!
   - title: Tania Ballesteros
-    # image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
     description: |
       Hola guapa, soy Tania, no sé si te acordarás de mí, soy la chica que se despidió de ti dándote las gracias por mostrar tu vulnerabilidad en el taller de danza africana del Akelarre.
 
@@ -56,7 +54,6 @@ rows:
 
       Un saludo y que tengas un feliz día preciosa!
   - title: Linda Figures
-    # image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
     description: |
       Porto un ritme frenètic amb nens, feina i casa però em bellugo molt poc, i la meva regla és fosca, poc abundant i sempre costa moltíssim fins que baixa del tot.
 
@@ -73,7 +70,7 @@ rows:
       Brutal la connexió amb la resta del grup, brutal tu! Brutal els percussionistes.
 
       Marta ets pura energia!! En vull més i ho vull amb tu!
-# - type: columns
-#   items:
-#   - description: |
-#       [btn icon-star Más reseñas](https://g.page/webmurcia/review "noindex")
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más reseñas](https://g.page/r/CYztzzviHI_kEBM/review "noindex")

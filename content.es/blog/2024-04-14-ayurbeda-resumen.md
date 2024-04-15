@@ -64,7 +64,7 @@ Para la medicina Ayurbeda, nada escapa a los cinco elementos, todo en la natural
 - **Aire:** <br> El Aire es aquello que inhalas y hace mover todas las funciones de tu cuerpo.
 - **Fuego:** <br> El calor que sientes dentro de tu cuerpo es debido al elemento del fuego.
 - **Agua:** <br> Está presente en todos los fluidos, es como el océano interno en el que se mueven los otros y constituye la mayor sustancia de tu cuerpo.
-- **Tierra:** <br> Falta texto de tierra.
+- **Tierra:** <br> Es lo que le da una estructura y un container donde convivir todos los demás elementos.
 
 > De la misma manera que al mezclar agua con tierra creamos edificios, cuando el elemento agua se une con el elemento tierra se crea la piel, los músculos, los huesos y toda la parte sólida
 {.subtitle}

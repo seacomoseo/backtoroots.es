@@ -14,13 +14,13 @@ rows:
     full: true
   - type: address
     active: false
-    name: BacK To RooTs
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
-    addressLocality: Murcia
+    name: Back to Roots | Marta
+    streetAddress: Carrer de Can Calders, 13
+    postalCode: 08980
+    addressLocality: Sant Feliu de Llobregat, Barcelona
     addressRegion: Cataluña
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    coordinates: '{"type":"Point","coordinates":[2.0458810,41.3863149]}'
   form:
     fill_inputs: false
     items:
@@ -37,5 +37,5 @@ rows:
       required: true
   map:
     active: false
-    link: ''
+    link: https://g.page/r/CYztzzviHI_kEBM
     iframe: ''
