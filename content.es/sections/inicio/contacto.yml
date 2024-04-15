@@ -21,6 +21,15 @@ rows:
     addressRegion: Cataluña
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[2.0458810,41.3863149]}'
+  - type: address
+    active: false
+    name: Back To Roots | Marta Ribas
+    streetAddress: Carrer Riera d'Aubí, 37
+    postalCode: 17230
+    addressLocality: Palamós, Girona
+    addressRegion: Cataluña
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[3.1177286,41.8497379]}'
   form:
     fill_inputs: false
     items:

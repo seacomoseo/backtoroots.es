@@ -26,7 +26,7 @@ rows:
     image: retiros/marruecos.jpg
     description: |
       icon-calendar próximamente
-  - title: Grecias
+  - title: Grecia
     # link: /pdf/retiro-grecia.pdf
     image: retiros/grecia.jpg
     description: |
