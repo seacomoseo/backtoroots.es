@@ -29,6 +29,16 @@ h1, h2, h3, h4, h5, h6 {
   --active: #25d366;
 }
 
+
+// Table odd files alt color
+
+tbody tr:nth-child(odd) {
+  background-color: $alt;
+  &:hover {
+    background-color: $main-dark;
+  }
+}
+
 // Slider arrows
 
 // .slider__arrows--float
