@@ -27,13 +27,14 @@ tpl:
   list:
     size: lg
     cols: 4
-    ratio: 16x9
+    ratio: 16/9 
     inset: y
     align: left
     color: white
-    hide_categories: y
-    reading_time: y
     button: hide
+    tags:
+    - type: date
+    - type: time
   related:
     slider: y
     arrows: float
