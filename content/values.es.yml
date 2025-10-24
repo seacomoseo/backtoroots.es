@@ -1,0 +1,58 @@
+menu:
+  image: base/icon.svg
+  title: BacK To RooTs
+  items:
+  - label: InIcIo
+    link: /
+    anchor: Back to Roots
+  - label: SaTyaM YoGa
+    link: /satyam-yoga/
+    anchor: Clases de Satyam Yoga en Cataluña
+  - label: DAnZÁFricA
+    link: /danzafrica/
+    anchor: Danza Africana en Cataluña
+  - label: AguAhArA
+    link: /aguahara/
+    anchor: Sesiones de Aguahara en Cataluña
+  - label: CoNóCeMe
+    link: /#conoceme
+  - label: ReTiRoS
+    link: /#retiros
+    anchor: Retiros espirituales de lujo (Yoga, Danza Africana y Aguahara)
+  - label: ViAjEs
+    link: /#viajes-senegal
+    anchor: Viajes organizados a Senegal para mujeres
+  - label: CoNóCeTe
+    link: /#conocete
+  - label: ConTacTo
+    link: /#contacto
+    button: cta
+  - label: Blog
+    link: /blog/
+callnows:
+- type: custom
+  link: https://wa.me/34677235334
+  label: Coméntame lo que quieras, te leo
+  icon: brand:whatsapp
+  button: whatsapp
+  lock: y
+footer:
+  color: dark
+  space: 2
+  div: brush
+  div_x: n
+  dots:
+  - link: https://www.instagram.com/danafrimar/
+  - link: https://www.linkedin.com/in/marta-ribas-918a643a/
+  - link: https://www.facebook.com/marta.r.orozco.5
+  - link: https://www.youtube.com/@back.toroots
+  - link: https://g.page/r/CYztzzviHI_kEBM
+  - link: https://g.page/r/CYu1Ude0qIvlEBM
+    icon: place
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

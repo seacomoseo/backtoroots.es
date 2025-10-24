@@ -1,0 +1,18 @@
+title: Únicas
+weight: 0
+base: single
+tpl:
+  menu:
+    logo: n
+    sticky: auto
+    size: xl
+  callnow: custom
+  section:
+  - line: y
+    color: cta
+    parallax: fix
+    size: lg
+    div: brush
+    alpha: 0.7
+  - div_x: y
+    div_y: y

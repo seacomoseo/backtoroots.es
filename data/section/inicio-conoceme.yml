@@ -1,0 +1,92 @@
+name: Inicio ➡️ Conoceme
+title: CoNóCeMe
+subtitle: quién soy yo
+box:
+  cols: 5
+  gap: 3
+boxes:
+- image: https://youtu.be/W6o5p8ukAqc#mute
+  ratio: 9/16
+  fit: 2
+- md: |
+    - Licenciada en administración y dirección de empresas 
+    - Experta en externalización de servicios de RSC para empresas
+    - Fundadora de la ONG Alaya Solidarios 
+    - Fundadora de Back To Roots
+
+    > Todo esto está muy bien, pero... ¿Quién soy yo?
+
+    Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
+
+    [[::add:: Biografía]](#biografia)
+    [[::add:: Diosa]](#diosa)
+    [[::add:: Comparto]](#comparto)
+  fit: 3
+  align: left
+  align_y: center
+modal:
+  # inset: y
+  line: y
+modals:
+- title: Biografía
+  subtitle: ¿Quién soy yo?
+  image: danzafrica/2021-09-26-22-12-18.jpg
+  md: |
+    Soy sagitariana de nacimiento y con 5 planetas en esa constelación me debato siempre entre mi bestia y mi divinidad.
+
+    Saco mi bestia a pasear cuando bailo y genero encuentros con Danzáfrica, la miro, conecto con ella y le doy su espacio. Bailo desde la mujer salvaje, con y para mis ancestros y conecto con mi lado más animal, primario y en libertad.
+
+    [[DANZÁFRICA]](/danzafrica/)
+
+    Conecto con mi divinidad a través de la práctica espiritual que me conecta con mi luz, mi paz y el amor incondicional que tod@s tenemos dentro y que es nuestra responsabilidad encontrar y vivir desde ahí.
+
+    [[SATYAM YOGA]](/satyam-yoga/)
+
+    Y consigo fluir por la vida estando muy en contacto con mis aguas internas que siento que habito a un nivel no racional desde la práctica de Aguahara. Con ella puedo acceder al mundo sutil y crear espacio sagrado de consciencia plena desde la ligereza y la potencialidad del elemento del agua en una experiencia totalmente agradable, relajante y fácil.
+
+    [[AGUAHARA]](/aguahara/)
+- id: diosa
+  title: La fuerza de la diosa
+  subtitle: Bestia - Divinidad
+  image: danzafrica/2022-05-05-12-48-06.jpg
+  md: |
+    ¿Quién soy yo? Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
+
+    Llevo ya 9 largos años en el desarrollo y estudio de esta pregunta y créeme, que han sido los años más mágicos de mi vida al descubrir la magia del universo y de qué estamos hechos.
+
+    No te diré que ha sido todo maravilloso, pero sí los años que más sentido le han dado a mi vida, donde más he conocido el funcionamiento del ser humano y la naturaleza de la que tod@s formamos parte.
+
+    Entonces, la respuesta a esta pregunta es algo dinámico, vivo y en constante evolución. Lo que escriba hoy puede cambiar en un año entonces haremos lo siguiente; voy a contarte hechos reales que ya han sucedido en mi vida y ahí ves si te identificas. Te parece?
+
+    Me llamo Marta Ribas Orozco, nacida en Barcelona hace 40 años, economista de profesión y dedicada a ello hasta mis 35 años de edad. Desde bien pequeñita lo que me gustaba era bailar. Con el paso de los años y la corriente de las personas que te rodean, fui olvidando cual era mi pasión. Me dediqué simplemente a lo que se suponía que debía de hacer hasta caer en un vacío existencial a mis 30 años. Tenía muchas cosas que se consideran muy importantes o de obligado uso (buen trabajo, buen coche, buen compañero de vida etc) pero yo no me sentía plena, realizada, ni feliz. No entendía lo que me pasaba
+
+    Había superado un cáncer con 21 años y debiera estar feliz por estar viva y tener salud, pero no era así. Entré en crisis. Fue entonces cuando decidí experimentar el camino del yoga. El camino que te lleva a agarrar de la mano a tu alma y pedirle qué es lo que necesita. Qué es lo que ha venido a hacer en esta vida y ella me contestó que quería bailar. A mis 33 decidí agarrar a mi niña de la mano y ayudarla a ser y hacer todo aquello que todavía anhelaba. A mis 35 decidí dar un giro a mi vida, dejarlo todo, viajar, conocerme a mí misma, así como dar rienda suelta a mis sueños. He viajado por muchos lugares y estudiado y sobre todo practicado, diferentes disciplinas con las que he reaprendido a vivir de una forma íntegra con lo que soy, con lo que somos, en definitiva, con lo que nuestra alma ha venido a hacer en este plano terrenal. A mis 40 comparto todo aquello que a mí me ha ayudado a sanar una vida que estaba vacía de propósito y siento que tengo algo que aportar a la vida de otras personas. Qué más puedo pedir.... ¡Ah sí! Que te vengas y compartas conmigo, pues si ya conoces la ley de la atracción en el funcionamiento de la energía, probablemente tú y yo ya nos conocemos en otro plano y sabes que no es casualidad que hayas llegado a leer hasta aquí. Así que mi respuesta a quien soy yo es: yo soy tú y tú eres yo y ha llegado la hora de que aprendamos y compartamos la una de la otra
+  ratio: 3/2
+- id: comparto
+  title: Desde dónde comparto y qué siento
+  subtitle: ¿Qué quieres saber?
+  image: fondo.jpg
+  md: |
+    #### No es porqué lo haces sinó lo que sientes al hacerlo
+
+    ##### Qué siento en danzáfrica
+
+    Cuando bailo conecto con esa mujer salvaje, ancestral y liberada de cualquier tipo de juicio, miedo o preocupación. A veces bailo desde la sensual, otras desde la atrevida, otras desde la niña, pero siempre siempre siempre siempre bailo desde mi autenticidad, agarrada bien de mi payasa, loca, cómica, espontánea e impulsiva.
+
+    [[DANZÁFRICA]](/danzafrica/)
+
+    ##### Qué siento en satyam yoga
+
+    Cuando medito o practico yoga conecto con esa mujer todo amor, compasiva, vulnerable, sensible, sensitiva, intuitiva, diosa y canal de sanación. Me entrego a lo que hago y te comparto todo lo que a mí me ha cambiado la vida.
+
+    [[SATYAM YOGA]](/satyam-yoga/)
+
+    ##### Qué siento en aguahara
+
+    Cuando facilito Aguahara me conecto con esa mujer todo amor incondicional, mujer cuidadora que sólo ve la otra persona un reflejo de alguien que necesita ser cuidado, amado, sustentado y acunado. Entrego todo el amor que tengo y cuido como me gustaría que cuidaran de mí.
+
+    [[AGUAHARA]](/aguahara/)
+
+    #### No es lo que haces sino desde donde lo haces
+
+    En definitiva, cuando comparto lo que sea, yoga, danza o aguahara lo hago desde lo más auténtico de mí. Desde lo más profundo de mi corazón y con un sentimiento de gratitud infinito. Lo hago, siempre, desde mi esencia y lo hago porqué es lo que le da sentido a mi vida. Me siento llena cuando todo lo que he hecho en mi vida me ha llevado a este momento presente en que me estás leyendo y quizá te quieras venir a compartir conmigo. Sólo que haya algo que yo pueda decirte que te ayude, algo que puedas compartir conmigo que te inspire, lo que sea que te lleves de mí, habrá valido la pena todos mis años de trabajo personal y espiritual

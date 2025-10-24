@@ -1,0 +1,17 @@
+name: Danzafrica ➡️ Encuentros
+title: Encuentros
+subtitle: grupales con percusión en directo
+box:
+  ratio: 16/9
+  line: y
+  label: Contacto
+  link: /#contacto
+  pin: send
+  cols: 3
+boxes:
+- title: Cataluña
+  image: https://images.unsplash.com/photo-1570268325073-4f2bd3fbe3fc?w=800&auto=format&fit=crop&q=60
+- title: Valencia
+  image: https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&w=800
+- title: Madrid
+  image: https://images.pexels.com/photos/3757144/pexels-photo-3757144.jpeg?auto=compress&cs=tinysrgb&w=800

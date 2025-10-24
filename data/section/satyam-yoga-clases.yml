@@ -1,0 +1,17 @@
+name: Satyam Yoga ➡️ Clases
+title: Clases
+subtitle: regulares
+box:
+  ratio: 16/9
+  line: y
+  label: Ubicación
+  pin: place
+  lock: y
+  cols: 3
+boxes:
+- title: Baix Empordà
+  link: https://maps.google.com/maps?q=Baix+Emporda
+  image: satyam-yoga/clases/baix-emporda.jpg
+- title: Sant Cugat del Vallès
+  link: https://maps.google.com/maps?q=Sant+Cugat+del+Valles
+  image: satyam-yoga/clases/sant-cugat-del-valles.jpg

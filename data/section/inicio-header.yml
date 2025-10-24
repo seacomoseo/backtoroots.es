@@ -1,0 +1,30 @@
+name: Inicio ➡️ Header
+size: xl
+full: y
+pt: 3
+hanchor: BacK To RooTs - Vuelta al Origen - Cataluña
+box:
+  cols: 3
+  gap: 3
+  align_y: center
+  line: y
+boxes:
+- image: https://youtu.be/T65GmlqwjUE#mute
+  ratio: 16/9
+  fit: 2
+- image: base/icon.svg
+  ratio: 2/1
+  title: BacK To RooTs
+  subtitle: vuelta al origen
+  md: |
+    Próximos viajes a Senegal:
+
+    | Inicio                        | Fin                     |
+    | ----------------------------- | :---------------------- |
+    | ::event_available:: 27 abril  | ::event_busy:: 7 mayo   |
+    | ::event_available:: 14 mayo   | ::event_busy:: 25 mayo  |
+    | ::event_available:: 29 junio  | ::event_busy:: 13 julio |
+    | ::event_available:: noviembre | por definir             |
+    {.align-center .bg-main-light}
+
+    [[::add:: Más información]](#viajes-senegal)

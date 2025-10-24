@@ -1,0 +1,30 @@
+name: Satyam Yoga ➡️ Resenas
+title: Reseñas
+subtitle: dicen por ahí...
+boxes:
+- review:
+    color: light
+    slider: y
+    cols: 3
+    alpha: 0.3
+    pips: hide
+    arrows: float
+  reviews:
+  - title: Blanca # Parellada
+    image: satyam-yoga/resenas/blanca-parellada.jpg
+    md: |
+      Recomendaría a todos las clases de yoga de Marta, es una profesora que no solo destaca por su personalidad y su alegría, sino que es perfeccionista, meticulosa y rigurosa. Está muy pendiente de los ajustes, con ella he aprendido a hacer correctamente las asanas. 
+
+      Mil gracias Marta ::favorite::
+  - title: Ricard
+    subtitle: Mestre de música
+    image: satyam-yoga/resenas/ricard.jpg
+    md: |
+      El que més m'impressiona de la Marta a les seves sessions de ioga, és l'energia que encomana a tots els seus deixebles. Sempre ho dona tot perquè tothom pugui aprofitar al màxim la classe, cuidant tots els detalls i de manera personalitzada. Així, la percepció del temps, desapareix.
+  - title: Isa
+    image: satyam-yoga/resenas/isa.jpg
+    md: |
+      La meditación guiada con marta es indescriptible. Tras haber probado sin éxito otras sesiones puedo decir que gracias a sus técnicas, conocimiento como maestra y su ayuda, vivi y sentí una meditación real, consciente y profunda que sumado a unas técnicas de respiración sorprendentes han supuesto una nueva etapa en mi vida. No tengo palabras para expresar toda mi gratitud.
+- boxes:
+  - md: |
+      [[::star:: Más reseñas]](https://g.page/r/CYztzzviHI_kEBM/review "[nofollow]")

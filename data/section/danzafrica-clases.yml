@@ -1,0 +1,24 @@
+name: Danzafrica ➡️ Clases
+title: Clases
+subtitle: regulares
+hanchor: Clases de Danza Africana
+box:
+  ratio: 16/9
+  line: y
+  label: Ubicación
+  pin: place
+  lock: y
+  cols: 3
+boxes:
+- title: Palafrugell
+  subtitle: Sumaya Centre Alquimia
+  link: https://maps.app.goo.gl/RHswJTdTgZLGWdUM9
+  image: danzafrica/clases/sumaya-centre-alquimia.jpg
+- title: Palamós
+  subtitle: Escola de dansa Georgina Ors
+  link: https://maps.app.goo.gl/hjP9FU7m6d6xEww86
+  image: danzafrica/clases/palamos.jpg
+- title: Sant Cugat
+  subtitle: Passeig Guineu, 91
+  link: https://maps.app.goo.gl/iG1PMsJxb6ivhktf9
+  image: danzafrica/clases/sant-cugat-del-valles.jpg

@@ -1,0 +1,18 @@
+name: te Unes
+title: ¿Te UnEs?
+subtitle: todas las opciones
+box:
+  link: '#ejemplo'
+  ratio: 2/1
+  pin: none
+  alpha: 0.5
+  cols: 4
+boxes:
+- label: Viajes
+  image: danzafrica/2023-senegal.jpg
+- label: Retiros
+  image: satyam-yoga/2023-09-21-13-15-17.jpg
+- label: Eventos
+  image: fondo.jpg
+- label: Formaciones
+  image: satyam-yoga/2022-01-05--76.jpg

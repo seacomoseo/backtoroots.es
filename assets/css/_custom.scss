@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 .callnow__caption {
   right: 0;
 }
-.button-up {
+.up {
   left: 0;
   right: unset;
 }
@@ -39,39 +39,10 @@ tbody tr:nth-child(odd) {
   }
 }
 
-// Slider arrows
-
-// .slider__arrows--float
-.slider__arrows {
-  justify-content: space-between;
-  margin-top: 0;
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  height: 0;
-  .slider__arrow {
-    // @include fluid-size(--slider-arrow-size, 1em, 2, 3);
-    --slider-arrow-size: #{ fluid-size(2*16px, 3*18px) };
-    width: var(--slider-arrow-size);
-    height: var(--slider-arrow-size);
-    min-height: var(--slider-arrow-size);
-    > svg {
-      // @include fluid-size(font-size, 1em, 1.5, 2);
-      font-size: fluid-size(1.5*16px, 2*18px);
-    }
-  }
-  .slider__arrow--left {
-    transform: translate(calc(var(--container-margin-side) *  1 + var(--slider-arrow-size) / 4), calc(-50% - 3em));
-  }
-  .slider__arrow--right {
-    transform: translate(calc(var(--container-margin-side) * -1 - var(--slider-arrow-size) / 4), calc(-50% - 3em));
-  }
-}
-
 
 // Form radio column direction
 
-.contact__form-fieldset {
+.form__fieldset {
   flex-direction: column;
 }
 
@@ -82,8 +53,8 @@ tbody tr:nth-child(odd) {
   @mixin show-from($delay) {
     animation: show-from .5s (.25 + .125s * $delay) both;
   }
-  .column--item-1 { @include show-from(1); }
-  .column--item-2 { @include show-from(2); }
+  .box--1 { @include show-from(1); }
+  .box--2 { @include show-from(2); }
 }
 
 
@@ -100,7 +71,7 @@ tbody tr:nth-child(odd) {
 
 #body-satyam-yoga #header,
 #maestrias {
-  .column--item-1 .image__inner img {
+  .box--1 .image__inner img {
     --mask-image: linear-gradient(black 85%, transparent 100%);
     -webkit-mask-image: var(--mask-image);
     mask-image: var(--mask-image);
@@ -111,9 +82,9 @@ tbody tr:nth-child(odd) {
 #body-satyam-yoga,
 #body-satyam-yoga .bg {
   --main: var(--light);
-  --link: var(--light);
+  --cta: var(--light);
   --alt: var(--invert);
-  --alt-text: var(--invert-text);
+  --alt-in: var(--invert-in);
 }
 #body-danzafrica #header {
   .bg-figure-image img {
@@ -124,11 +95,16 @@ tbody tr:nth-child(odd) {
 #body-aguahara .bg {
   $agua: #98cdd6;
   --main: #{ $agua };
-  --link: #{ $agua };
+  --cta: #{ $agua };
   --alt: var(--invert);
-  --alt-text: var(--invert-text);
-  [data-iframe]:after {
-    content: '';
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{ str-slice(#{ $agua }, 2) }'/%3E%3Cpath d='M45 24 27 14v20' fill='%23#{ str-slice(#{ $dark }, 2) }'/%3E%3C/svg%3E");
+  --alt-in: var(--invert-in);
+  // [data-iframe]:after {
+  //   content: '';
+  //   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{ str-slice(#{ $agua }, 2) }'/%3E%3Cpath d='M45 24 27 14v20' fill='%23#{ str-slice(#{ $dark }, 2) }'/%3E%3C/svg%3E");
+  // }
+}
+#body-aguahara {
+  .review__text video {
+    height: auto;
   }
 }

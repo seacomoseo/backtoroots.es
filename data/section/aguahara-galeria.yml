@@ -1,0 +1,24 @@
+name: Aguahara ➡️ Galeria
+title: Galería
+subtitle: fotos
+images:
+- aguahara/2023-09-20-17-25-33.jpg
+- aguahara/2023-09-20-17-07-14.jpg
+- aguahara/2023-09-20-17-05-01.jpg
+- aguahara/2019-12-12-07-59-07.jpg
+- aguahara/2019-12-12-07-55-32.jpg
+- aguahara/2019-12-12-07-53-43.jpg
+- aguahara/2019-12-12-07-51-59.jpg
+- aguahara/2023-09-21-18-30-01.jpg
+- aguahara/2023-09-21-18-30-00.jpg
+- aguahara/2023-09-21-18-30-02.jpg
+- aguahara/2023-09-24-19-36-01.jpg
+- aguahara/2023-09-24-19-35-59.jpg
+- aguahara/2023-09-24-19-36-00.jpg
+gallery:
+  gray: n
+  link: hide
+  button: hide
+  cols: 3
+  type: rows
+  contain: y

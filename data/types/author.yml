@@ -1,0 +1,5 @@
+base: author
+tax_of:
+- name: blog
+  order: 1
+  schema: author

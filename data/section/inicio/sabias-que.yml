@@ -1,0 +1,15 @@
+name: Sabias que
+title: ¿SAbíAS qUé?
+subtitle: blog
+tags: []
+author: null
+max: 12
+list:
+  category: []
+  type: blog
+box:
+  cols: 4
+  color: main
+  color_alpha: .7
+  slider: y
+  arrows: float

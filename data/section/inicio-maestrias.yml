@@ -1,0 +1,31 @@
+name: Inicio ➡️ Maestrias
+title: MaeStRíaS
+subtitle: especialidades
+box:
+  cols: 3
+  gap: 3
+  ratio: 4/3
+  contain: y
+  line: y
+boxes:
+- title: SaTyaM YoGa
+  subtitle: Vuelta a la Unidad
+  image: satyam-yoga/2023-09-21-12-40-45.png
+  link: /satyam-yoga/
+  md: |
+    > El YoGa De LoS YoGaS
+    {.quotes .font-base}
+- title: DAnZÁFricA
+  subtitle: Vuelta a la RaiZ
+  image: danzafrica/2023-09-24--01.png
+  link: /danzafrica/
+  md: |
+    > La DanZa De LaS DanZaS
+    {.quotes .font-base}
+- title: AguAhArA
+  subtitle: Vuelta Al SiLeNciO
+  image: aguahara/2023-09-24-19-35-59.png
+  link: /aguahara/
+  md: |
+    > El AguA CoMo OrÍGeN De ViDa
+    {.quotes .font-base}
