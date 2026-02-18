@@ -1,34 +1,45 @@
 menu:
   image: base/icon.svg
   title: BacK To RooTs
+  subtitle: Vuelta a la raíz
   items:
-  - label: InIcIo
-    link: /
-    anchor: Back to Roots
-  - label: SaTyaM YoGa
-    link: /satyam-yoga/
-    anchor: Clases de Satyam Yoga en Cataluña
-  - label: DAnZÁFricA
-    link: /danzafrica/
-    anchor: Danza Africana en Cataluña
-  - label: AguAhArA
-    link: /aguahara/
-    anchor: Sesiones de Aguahara en Cataluña
-  - label: CoNóCeMe
+  # - label: INICIO
+  #   link: /
+  #   anchor: Back to Roots
+  - label: CONÓCEME
     link: /#conoceme
-  - label: ReTiRoS
+  - label: QUÉ HAGO
+    link: /#maestrias
+    items:
+    - label: DANZÁFRICA
+      link: /danzafrica/
+      anchor: Danza Africana en Cataluña
+    - label: SATYAM YOGA
+      link: /satyam-yoga/
+      anchor: Clases de Satyam Yoga en Cataluña
+    - label: AGUAHARA
+      link: /aguahara/
+      anchor: Sesiones de Aguahara en Cataluña
+  - label: A DÓNDE TE LLEVO
     link: /#retiros
-    anchor: Retiros espirituales de lujo (Yoga, Danza Africana y Aguahara)
-  - label: ViAjEs
-    link: /#viajes-senegal
-    anchor: Viajes organizados a Senegal para mujeres
-  - label: CoNóCeTe
-    link: /#conocete
-  - label: ConTacTo
+    items:
+    - label: VIAJES
+      link: /#viajes-senegal
+      anchor: Viajes organizados a Senegal para mujeres
+    - label: RETIROS
+      link: /#retiros
+      items:
+      - label: REVAL
+        link: https://www.vacacionesalternativas.es/
+      - label: PARADISO RETREATS
+        link: https://paradisoretreats.com/
+  # - label: CONÓCETE
+  #   link: /#conocete
+  - label: CONTACTO
     link: /#contacto
     button: cta
-  - label: Blog
-    link: /blog/
+  # - label: BLOG
+  #   link: /blog/
 callnows:
 - type: custom
   link: https://wa.me/34677235334

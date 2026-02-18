@@ -1,11 +1,15 @@
 name: Aguahara ➡️ Header
 hanchor: Sesiones de AguAhArA en Cataluña
+size: md
 box:
-  cols: 5
+  cols: 2
   gap: 5
   align_y: center
   line: y
 boxes:
+- image: https://youtu.be/p099kMdQqa8#mute
+  ratio: 9/16
+  order: 2
 - title: AguAhArA
   subtitle: Vuelta Al SiLeNciO
   md: |
@@ -16,12 +20,7 @@ boxes:
     Es definitivamente una experiencia que necesitas sentir y toda descripción en palabras se quedará corta, ten en cuenta que el agua es la que permite crear la vida, mantenerla y conectarla en todas sus formas. Posee una dimensión sagrada, simbólica y mística en todas las religiones y tradiciones. Su significado sobrepasa la realidad material. Sugiere en si misma la paz interna, el arte y la belleza.
 
     [[::add:: Más]](#mas)
-  fit: 3
-  order: 2
   align: left
-- image: https://youtu.be/p099kMdQqa8#mute
-  ratio: 9/16
-  fit: 2
 modal:
   inset: y
   line: y

@@ -10,6 +10,16 @@ h1, h2, h3, h4, h5, h6 {
   --alt: var(--main);
 }
 
+// Logo
+
+.logo__title {
+    @include fluid-size(--hs, 1, 1.025, 2);
+}
+.logo__title + .logo__subtitle:not(#aux) {
+  margin-top: -1em;
+}
+
+
 // Callnow and Up
 
 .callnow {
@@ -71,7 +81,7 @@ tbody tr:nth-child(odd) {
 
 #body-satyam-yoga #header,
 #maestrias {
-  .box--1 .image__inner img {
+  .image__inner img {
     --mask-image: linear-gradient(black 85%, transparent 100%);
     -webkit-mask-image: var(--mask-image);
     mask-image: var(--mask-image);

@@ -9,9 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const email = form.querySelector('input[name="Email"]').value
       const result = form.querySelector('input[name="Resultado"]')
       const doshas = [
-        form.querySelectorAll('.contact__form-label:nth-child(2) > .contact__form-radio:checked').length,
-        form.querySelectorAll('.contact__form-label:nth-child(3) > .contact__form-radio:checked').length,
-        form.querySelectorAll('.contact__form-label:nth-child(4) > .contact__form-radio:checked').length
+        form.querySelectorAll('.form__label:nth-child(2) > .form__radio:checked').length,
+        form.querySelectorAll('.form__label:nth-child(3) > .form__radio:checked').length,
+        form.querySelectorAll('.form__label:nth-child(4) > .form__radio:checked').length
       ]
       const maxValue = Math.max(...doshas)
       const kapha = doshas[0] === maxValue

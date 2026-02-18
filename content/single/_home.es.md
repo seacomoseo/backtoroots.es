@@ -58,6 +58,8 @@ org:
     url: https://backtoroots.es/#viajes-senegal
     area: España
 tpl:
+  menu:
+    color: cta-dark
   section:
   - color: cta-dark
     bi: fondos/espigas.mp4
@@ -66,10 +68,11 @@ tpl:
     pb: 8
   sections:
   - file: inicio-header
-  - file: inicio-maestrias
+  - file: inicio-proximos
   - file: inicio-conoceme
-  - file: inicio-retiros
-  - file: inicio-conocete
+  - file: inicio-maestrias
+  # - file: inicio-retiros
+  # - file: inicio-conocete
   - file: inicio-contacto
 ---
 

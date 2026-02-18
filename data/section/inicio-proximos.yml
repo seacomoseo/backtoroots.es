@@ -1,0 +1,13 @@
+name: Inicio ➡️ Próximos Eventos
+title: Próximos Eventos
+md: |
+  | Cuándo                    | Evento                                                   |
+  | ------------------------- | -------------------------------------------------------- |
+  | 27 feb y 20 marzo 19:00hs | Sesion danzáfrica con percusion en directo - Sant Vicenç |
+  | 29 marzo 11:30hs          | Sesion danzáfrica con percusion en directo               |
+  | 2 al 6 abril              | Retiro semana santa - Catell d’aro, L’empordà            |
+  | 25 abril -  5 mayo        | Viaje a Senegal                                          |
+  |  5 mayo  - 14 mayo        | Viaje a Senegal                                          |
+  | 15 al 17 mayo             | Retiro raíces y alas - Besalú, Girona                    |
+  |  2 julio - 14 julio       | Viaje a Senegal                                          |
+  {.align-left .bg-light}

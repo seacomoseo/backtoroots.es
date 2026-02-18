@@ -7,6 +7,7 @@ box:
   line: y
 boxes:
 - image: satyam-yoga/2023-09-21-12-40-45.png
+  order: 2
 - title: SaTyaM YoGa
   subtitle: Vuelta a la Unidad
   md: |

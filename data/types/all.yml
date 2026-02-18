@@ -6,8 +6,8 @@ tpl:
     logo: y
     logo_align: center
     clear: y
-    size: xl
-    sticky: none
+    size: lg
+    sticky: auto
     transparent: y
     color: alt-dark
     hide_icons: y

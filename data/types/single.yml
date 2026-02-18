@@ -2,10 +2,6 @@ title: Únicas
 weight: 0
 base: single
 tpl:
-  menu:
-    logo: n
-    sticky: auto
-    size: xl
   callnow: custom
   section:
   - line: y

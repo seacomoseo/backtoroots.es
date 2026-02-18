@@ -9,16 +9,22 @@ box:
   pin: place
   lock: y
   cols: 3
+  hs: 5
 boxes:
 - title: Palafrugell
-  subtitle: Sumaya Centre Alquimia
+  subtitle: Centre Alquimia Sumaya
+  md: |
+    Sesiones regulares todos los viernes
+
+    18:45 - 20:00 hs
   link: https://maps.app.goo.gl/RHswJTdTgZLGWdUM9
   image: danzafrica/clases/sumaya-centre-alquimia.jpg
-- title: Palamós
-  subtitle: Escola de dansa Georgina Ors
-  link: https://maps.app.goo.gl/hjP9FU7m6d6xEww86
-  image: danzafrica/clases/palamos.jpg
-- title: Sant Cugat
-  subtitle: Passeig Guineu, 91
-  link: https://maps.app.goo.gl/iG1PMsJxb6ivhktf9
-  image: danzafrica/clases/sant-cugat-del-valles.jpg
+
+- title: Sant Vicenç dels Horts
+  subtitle: Centre Civic Virgina Amposta
+  md: |
+    Sesiones mensuales con percusión en directo
+
+    19:00 - 20:30 hs
+  link: https://maps.app.goo.gl/sx4CdfYv5PQoVJC2A
+  image: danzafrica/clases/centre-civic-virgina-amposta.jpg

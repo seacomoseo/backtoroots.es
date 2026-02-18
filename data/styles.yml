@@ -65,12 +65,12 @@ colors:
     dark: '#231f20' #50293d
     black: '#000000'
 rounded:
-  radius: 0.33
+  radius: .33
   chamfer: n
 buttons:
   sides_round: n
   dot_circle: y
-  deep: n
+  deep: y
   outline: n
   font:
     type: base
