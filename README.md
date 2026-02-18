@@ -1,6 +1,6 @@
 # backtoroots.es
 
-[![backtoroots.es](/assets/media/logo.png)](https://backtoroots.es/)
+[![backtoroots.es](/assets/media/poster.png)](https://backtoroots.es/)
 
 
 ## STEPS

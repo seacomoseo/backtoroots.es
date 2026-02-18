@@ -1,7 +1,7 @@
 menu:
-  image: base/icon.svg
-  title: BacK To RooTs
-  subtitle: Vuelta a la raíz
+  image: base/logo.svg
+  # title: BacK To RooTs
+  # subtitle: vuelta al origen
   items:
   # - label: INICIO
   #   link: /

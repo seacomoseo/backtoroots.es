@@ -16,7 +16,7 @@ org:
   legal: Marta Ribas Orozco
   nif: 12345678-A
   email: martaribas.orozco@gmail.com
-  logo: base/logo.png
+  logo: base/poster.png
   images: []
   as:
   - https://www.instagram.com/danafrimar/
