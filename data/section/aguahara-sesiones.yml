@@ -1,23 +1,24 @@
 name: Aguahara ➡️ Sesiones
-title: Sesiones
-subtitle: individuales
-box:
-  ratio: 4/3
-  line: y
-  label: Ubicación
-  pin: place
-  lock: y
-  cols: 3
 boxes:
-- title: Sumaya Palafrugell
-  subtitle: Baix Empordà
-  link: https://maps.google.com/maps?q=Sumaya+Palafrugell
-  image: aguahara/sesiones/sumaya-palafrugell.jpeg
-- title: Balneari Prats
-  subtitle: Caldes de Malavella
-  link: https://maps.google.com/maps?q=Hotel+Balneari+Prats
-  image: aguahara/sesiones/balneari-prats.jpg
-- title: Termes La Garriga
-  subtitle: Barcelona
-  link: https://maps.google.com/maps?q=Hotel+Termes+La+Garriga
-  image: aguahara/sesiones/hotel-termes-la-garriga.jpg
+- title: Sesiones
+  sub: individuales
+  box:
+    ratio: 4/3
+    line: true
+    label: Ubicación
+    pin: place
+    lock: true
+    cols: 3
+  boxes:
+  - title: Sumaya Palafrugell
+    sub: Baix Empordà
+    url: https://maps.google.com/maps?q=Sumaya+Palafrugell
+    img: /u/aguahara/sesiones/sumaya-palafrugell.jpeg
+  - title: Balneari Prats
+    sub: Caldes de Malavella
+    url: https://maps.google.com/maps?q=Hotel+Balneari+Prats
+    img: /u/aguahara/sesiones/balneari-prats.jpg
+  - title: Termes La Garriga
+    sub: Barcelona
+    url: https://maps.google.com/maps?q=Hotel+Termes+La+Garriga
+    img: /u/aguahara/sesiones/hotel-termes-la-garriga.jpg

@@ -1,42 +1,44 @@
-name: Danzafrica ➡️ Header
+name: Danzafrica ➡️ Hero
 size: xl
-hanchor: DAnZÁFricA - Danza Africana en Cataluña
-box:
-  cols: 5
-  gap: 3
-  align_y: top
-  line: y
 boxes:
-- image: https://youtu.be/eu85ddLP888?list=PLtqvZ-7n8QOZciCZk5TH3KZFIu0JzZ_Qw#mute
-  ratio: 16/9
-  fit: 3
-  order: 2
-- title: DAnZÁFricA
-  subtitle: Vuelta a la RaiZ
-  md: |
-    << La DanZa De LaS DanZaS >>
+- hanchor: DAnZÁFricA - Danza Africana en Cataluña
+  box:
+    cols: 5
+    gap: 3
+    align_y: top
+    line: true
+  boxes:
+  - vid: https://youtu.be/eu85ddLP888?list=PLtqvZ-7n8QOZciCZk5TH3KZFIu0JzZ_Qw
+    mute: true
+    ratio: 16/9
+    fit: 3
+    order: 2
+  - title: DAnZÁFricA
+    sub: Vuelta a la RaiZ
+    md: |
+      << La DanZa De LaS DanZaS >>
 
-    Danzáfrica soy yo, mi alma en movimiento, mis inquietudes y mis hazañas
+      Danzáfrica soy yo, mi alma en movimiento, mis inquietudes y mis hazañas
 
-    Danzáfrica es mi dolor, mis frustraciones vividas, mis sueños rotos y mis miedos vencidos
+      Danzáfrica es mi dolor, mis frustraciones vividas, mis sueños rotos y mis miedos vencidos
 
-    Danzáfrica es mi luz, mi esperanza. Todo lo que está por llegar y todo lo ya construido
+      Danzáfrica es mi luz, mi esperanza. Todo lo que está por llegar y todo lo ya construido
 
-    Danzáfrica eres tú. Danzáfrica es toda alma que quiera bailar conmigo. Sin etiquetas. Sin juicos. Sólo la esencia en movimiento. La esencia en expansión
+      Danzáfrica eres tú. Danzáfrica es toda alma que quiera bailar conmigo. Sin etiquetas. Sin juicos. Sólo la esencia en movimiento. La esencia en expansión
 
-    Danzáfrica es una oportunidad para bailar con y para nuestros ancestros, honrarlos y reconocerlos.
+      Danzáfrica es una oportunidad para bailar con y para nuestros ancestros, honrarlos y reconocerlos.
 
-    [[::add:: Más]](#mas)
-  fit: 2
-  align: left
+      [[::add:: Más]](#mas)
+    fit: 2
+    align: left
 modal:
-  inset: y
-  line: y
+  inset: true
+  line: true
 modals:
 - id: más
   title: DAnZÁFricA
-  subtitle: Vuelta a la RaiZ
-  image: fondo.jpg
+  sub: Vuelta a la RaiZ
+  img: /u/fondo.jpg
   md: |
     Danzáfrica es la conexión con el elemento TIERRA nuestras raíces y nuestros ancestros
 

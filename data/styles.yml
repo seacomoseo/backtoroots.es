@@ -1,10 +1,11 @@
 icons:
-  fill: y
+  fill: true
   weight: 700
   grade: 0
   optical: 24
   style: rounded
-  play: svg:youtube-iframe
+  def:
+    play: svg:youtube-iframe
   up:
   down:
   left:
@@ -14,50 +15,48 @@ fonts:
     family: Quicksand
     weight: 400
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
   cursive:
     family: Caveat
     weight: 400
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
     size: 1
-    top: 0
   title:
     family: Papyrus
     weight: 300
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
     size: 1
-    top: 0
-  blockquote_cursive: y
+  blockquote_cursive: true
 colors:
   main:
     color: '#a95502'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
-      fill: n
-      in: y
-      text: y
+    turn:
+      fill: false
+      in: true
+      text: true
   alt:
     color: '#ffffff' #98cdd6
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
-      fill: n
-      in: y
-      text: y
+    turn:
+      fill: false
+      in: true
+      text: true
   cta:
     color: '#f4bc52'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
-      fill: n
-      in: y
-      text: y
+    turn:
+      fill: false
+      in: true
+      text: true
   base:
     white: '#ffffff'
     light: '#eeeeee'
@@ -66,23 +65,23 @@ colors:
     black: '#000000'
 rounded:
   radius: .33
-  chamfer: n
-buttons:
-  sides_round: n
-  dot_circle: y
-  deep: y
-  outline: n
+  chamfer: false
+btns:
+  pill: false
+  disc: true
+  deep: true
+  outline: false
   font:
     type: base
-    bold: n
-    caps: n
+    bold: false
+    caps: false
   swap:
     type: base
-    bold: n
-    caps: n
+    bold: false
+    caps: false
 inputs:
-  fill: n
-  labels_out: n
+  fill: false
+  labels: in
 shadow:
   left: 0.15
   top: 0.15

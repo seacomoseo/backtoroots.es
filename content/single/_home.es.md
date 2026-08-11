@@ -1,9 +1,10 @@
 ---
 title: Inicio
-seo: BacK To RooTs - Vuelta al Origen - Cataluña
-slug: inicio
-description: llll➤ SaTyaM YoGa - Vuelta a la Unidad ➤ DAnZÁFricA (Danza Africana) - Vuelta a la RaiZ ➤ AguAhArA - El AguA CoMo OrÍGeN De ViDa.
-image: fondo.jpg
+seo:
+  title: BacK To RooTs - Vuelta al Origen - Cataluña
+  desc: llll➤ SaTyaM YoGa - Vuelta a la Unidad ➤ DAnZÁFricA (Danza Africana) - Vuelta a la RaiZ ➤ AguAhArA - El AguA CoMo OrÍGeN De ViDa.
+slug: /
+img: /u/fondo.jpg
 base: org
 org:
   types:
@@ -12,12 +13,12 @@ org:
   - BacK To RooTs
   - Back To Roots
   - Dana Frimar
-  description: Vuelta al origen mediante Satyam Yoga, Danzáfrica (Danza Africana) y Aguahara; con clases y sesiones privadas y regulares, talleres, encuentros y celebraciones. Además de viajes y retiros a Ibiza, Costa Brava y Senegal.
+  desc: Vuelta al origen mediante Satyam Yoga, Danzáfrica (Danza Africana) y Aguahara; con clases y sesiones privadas y regulares, talleres, encuentros y celebraciones. Además de viajes y retiros a Ibiza, Costa Brava y Senegal.
   legal: Marta Ribas Orozco
   nif: 12345678-A
-  email: martaribas.orozco@gmail.com
-  logo: base/poster.png
-  images: []
+  mail: martaribas.orozco@gmail.com
+  logo: /u/base/poster.png
+  imgs: []
   as:
   - https://www.instagram.com/danafrimar/
   - https://www.linkedin.com/in/marta-ribas-918a643a/
@@ -28,7 +29,7 @@ org:
   phones:
   - +34 677 23 53 34
   address:
-    name: Back to Roots | Marta
+  - name: Back to Roots | Marta
     street: Carrer de Can Calders, 13
     pc: '8980'
     locality: Sant Feliu de Llobregat, Barcelona
@@ -39,7 +40,7 @@ org:
   areas:
   - Cataluña
   - España
-  schedule: []
+  when: []
   prices: €€
   services:
   - title: SaTyaM YoGa
@@ -62,12 +63,12 @@ tpl:
     color: cta-dark
   section:
   - color: cta-dark
-    bi: fondos/espigas.mp4
+    bi: /u/fondos/espigas.mp4
   - color: alt
     bi: hide
     pb: 8
   sections:
-  - file: inicio-header
+  - file: inicio-_hero
   - file: inicio-proximos
   - file: inicio-conoceme
   - file: inicio-maestrias

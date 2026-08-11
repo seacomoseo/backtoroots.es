@@ -1,20 +1,21 @@
 ---
 title: SaTyaM YoGa
-seo: SaTyaM YoGa - Clases y Retiros en Cataluña - BacK To RooTs
+seo:
+  title: SaTyaM YoGa - Clases y Retiros en Cataluña - BacK To RooTs
+  desc: llll➤ Un camino evolutivo hacia la autorrealización ✅ mediante la auto observación, la reflexión, el conocimiento y la experiencia personal.
 slug: satyam-yoga
-description: llll➤ Un camino evolutivo hacia la autorrealización ✅ mediante la auto observación, la reflexión, el conocimiento y la experiencia personal.
-image: fondo.jpg
+img: /u/fondo.jpg
 tpl:
   menu:
     color: light
   section:
   - color: light
-    bi: fondos/lavanda.webm
-    alpha: .5
+    bi: /u/fondos/lavanda.webm
+    alpha: 0.5
   - bi: hide
     pb: 8
   sections:
-  - file: satyam-yoga-header
+  - file: satyam-yoga-_hero
   - file: satyam-yoga-clases
   - file: satyam-yoga-retiros
   - file: satyam-yoga-resenas

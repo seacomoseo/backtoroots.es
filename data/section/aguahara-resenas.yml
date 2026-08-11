@@ -1,17 +1,17 @@
 name: Aguahara ➡️ Resenas
-title: Reseñas
-subtitle: dicen por ahí...
 boxes:
+- title: Reseñas
+  sub: dicen por ahí...
 - review:
     cols: 3
     color: dark
     alpha: 0.7
-    slider: y
+    slider: true
     pips: hide
     arrows: float
   reviews:
   - title: Cristina Blanco
-    image: aguahara/resenas/cristina-blanco.jpg
+    img: /u/aguahara/resenas/cristina-blanco.jpg
     md: |
       En mis días previos al periodo, me vino muy bien para soltar y relajar el calor, los movimientos y el agua me ayudaron a conectarme con mi cuerpo y ver el estado el cual se encontraba. Poder soltar y soltar.
 
@@ -21,11 +21,11 @@ boxes:
 
       Fue una maravilla de experiencia
   - title: Rosa Nuñez
-    image: aguahara/resenas/rosa-nunez.jpg
+    img: /u/aguahara/resenas/rosa-nunez.jpg
     md: |
       Durante el tiempo q hice aguahara no hubo pasado, ni futuro. Tampoco pensamientos más allá de la respiración y la sensación corporal de fluir... No había luz, no había ruido, no había espacio ni tiempo. Únicamente la mágica sensación de sumergirse y emerger del agua. Al emerger el sol acariciaba la cara. Dentro del agua me deslizaba ingrávida en un espacio infinito, llena de paz. Una maravillosa experiencia sensorial. Gracias.
   - title: Norma
-    image: aguahara/resenas/norma.jpg
+    img: /u/aguahara/resenas/norma.jpg
     md: |
       Uf! Qué difícil ponerle palabras a esto!!!
 
@@ -36,7 +36,7 @@ boxes:
 
       Gracias de nuevo Marta.
   - title: Borja
-    image: aguahara/resenas/borja.jpg
+    img: /u/aguahara/resenas/borja.jpg
     md: |
       Muy seguro y relajado, dejando todo mi cuerpo a su merced. 
 
@@ -46,11 +46,10 @@ boxes:
 
       Al acabar la sesión me sentí muy relajado, era como si mi cuerpo no quisiera salir del agua, todo era placer.
   - title: Valerie
-    image: aguahara/resenas/valerie-sm.jpg
-    md: |
-      ![1/1](aguahara/resenas/valerie.mp4)
+    img: /u/aguahara/resenas/valerie-sm.jpg
+    md: /u/| ![1/1](/u/aguahara/resenas/valerie.mp4)
   - title: Nicolay Vysotskyy
-    image: aguahara/resenas/nicolay-vysotskyy.jpg
+    img: /u/aguahara/resenas/nicolay-vysotskyy.jpg
     md: |
       Si t’hagués de dir les 5 experiències de la meva vida aquesta en seria sense dubte
 
@@ -58,25 +57,25 @@ boxes:
 
       L’aguahara es essència, connexió de la llibertat del ser amb la Pau interior, expansió de la consciència cap a la teva naturalesa. Sanació.
   - title: Albert
-    image: aguahara/resenas/albert.jpg
+    img: /u/aguahara/resenas/albert.jpg
     md: |
       Aguahara para mí fue como sumergirme en recuerdos de la infancia. Una liberación del cuerpo envuelto en agua. Abrir los ojos y dejarme llevar por un recorrido desconocido hasta llegar a la paz mental.
   - title: Irene
-    image: aguahara/resenas/irene.jpg
+    img: /u/aguahara/resenas/irene.jpg
     md: |
       El aguahara con Marta me hizo conectar con mi infancia, con mi calma e incluso con mi yo dentro del vientre materno. Una experiencia única. Marta tiene una delicadeza y un respeto hacia lo que va ocurriendo en cada momento. Sin duda, un regalo para los sentidos.
   - title: Montse Mas Dausà
-    image: aguahara/resenas/montse-mas-dausa.jpg
+    img: /u/aguahara/resenas/montse-mas-dausa.jpg
     md: |
       El aquahara es una experiencia magnifica y maravillosa que no te debes perder sensación de libertad de no pensar en nada y solo de disfrute la conexión con el agua te transporta a otro lugar y lo más importante nuestra terapeuta Marta que es maravillosa con esa energía que desprende a raudales te hace sentir única. Gracias por esta experiencia 😘😘
   - title: Nina
-    image: aguahara/resenas/nina.jpg
+    img: /u/aguahara/resenas/nina.jpg
     md: |
       El placer de experimentar Aguahara en el embarazo,  meditación ingrávida que eleva el alma y conecta tu ser a un estado de profunda felicidad y conciencia.
 
       Danza acuática que te mimetiza con el elemento. Conexión emocional uterina y en mi caso plenitud con mis dos bebés. Sentirlos fluir, danzando y llenos de puro amor, es una experiencia única, reveladora y un viaje a tu interior sin precedentes.
   - title: Alejandra
-    image: aguahara/resenas/alejandra.jpg
+    img: /u/aguahara/resenas/alejandra.jpg
     md: |
       Describiría Aguahara como una experiencia única e irrepetible. Realizada con una profesional que te hace sentir segura, protegida y cuidada en todo momento.
 
@@ -84,7 +83,7 @@ boxes:
 
       Sin dudarlo, repetiría.
   - title: Sonia
-    image: aguahara/resenas/sonia.jpg
+    img: /u/aguahara/resenas/sonia.jpg
     md: |
       Sentí como si estuviera haciendo una meditación con un relax total, pero en el agua, había momentos que no sentías que estabas en el agua, sino que flotabas, sentir la ingravidez, era muy relajante y muy placentero. Definitivamente algo que hay que experminetar.
   - title: María Esther

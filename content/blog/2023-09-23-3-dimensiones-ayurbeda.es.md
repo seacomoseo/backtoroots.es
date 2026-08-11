@@ -2,7 +2,7 @@
 title: Las tres dimensiones del Ayurbeda
 slug: 3-dimensiones-ayurbeda
 author: admin
-toc: y
+toc: true
 date: 2023-09-23
 ---
 

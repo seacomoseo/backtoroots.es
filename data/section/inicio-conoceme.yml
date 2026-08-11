@@ -1,36 +1,37 @@
 name: Inicio ➡️ Conoceme
-title: CoNóCeMe
-subtitle: quién soy yo
-box:
-  cols: 5
-  gap: 3
 boxes:
-- image: https://youtu.be/W6o5p8ukAqc#mute
-  ratio: 9/16
-  fit: 2
-- md: |
-    - Licenciada en administración y dirección de empresas 
-    - Experta en externalización de servicios de RSC para empresas
-    - Fundadora de la ONG Alaya Solidarios 
-    - Fundadora de Back To Roots
+- title: CoNóCeMe
+  sub: quién soy yo
+  box:
+    cols: 5
+    gap: 3
+  boxes:
+  - vid: https://youtu.be/W6o5p8ukAqc
+    mute: true
+    ratio: 9/16
+    fit: 2
+  - md: |
+      - Licenciada en administración y dirección de empresas
+      - Experta en externalización de servicios de RSC para empresas
+      - Fundadora de la ONG Alaya Solidarios
+      - Fundadora de Back To Roots
 
-    > Todo esto está muy bien, pero... ¿Quién soy yo?
+      > Todo esto está muy bien, pero... ¿Quién soy yo?
 
-    Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
+      Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
 
-    [[::add:: Biografía]](#biografia)
-    [[::add:: Diosa]](#diosa)
-    [[::add:: Comparto]](#comparto)
-  fit: 3
-  align: left
-  align_y: center
+      [[::add:: Biografía]](#biografia)
+      [[::add:: Diosa]](#diosa)
+      [[::add:: Comparto]](#comparto)
+    fit: 3
+    align: left
+    align_y: center
 modal:
-  # inset: y
-  line: y
+  line: true
 modals:
 - title: Biografía
-  subtitle: ¿Quién soy yo?
-  image: danzafrica/2021-09-26-22-12-18.jpg
+  sub: ¿Quién soy yo?
+  img: /u/danzafrica/2021-09-26-22-12-18.jpg
   md: |
     Soy sagitariana de nacimiento y con 5 planetas en esa constelación me debato siempre entre mi bestia y mi divinidad.
 
@@ -47,8 +48,8 @@ modals:
     [[AGUAHARA]](/aguahara/)
 - id: diosa
   title: La fuerza de la diosa
-  subtitle: Bestia - Divinidad
-  image: danzafrica/2022-05-05-12-48-06.jpg
+  sub: Bestia - Divinidad
+  img: /u/danzafrica/2022-05-05-12-48-06.jpg
   md: |
     ¿Quién soy yo? Sólo tres palabras para la PREGUNTA MÁS COMPLEJA, surrealista y difícil de responder que jamás el humano se ha planteado… Así que me resulta un poco difícil responderte a esta pregunta sino invitarte a que me conozcas directamente en persona y lo averigües por ti mism@? ¿Te apetece 😊?
 
@@ -64,8 +65,8 @@ modals:
   ratio: 3/2
 - id: comparto
   title: Desde dónde comparto y qué siento
-  subtitle: ¿Qué quieres saber?
-  image: fondo.jpg
+  sub: ¿Qué quieres saber?
+  img: /u/fondo.jpg
   md: |
     #### No es porqué lo haces sinó lo que sientes al hacerlo
 

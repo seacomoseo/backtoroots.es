@@ -1,17 +1,17 @@
 name: Inicio ➡️ Conocete
-title: CoNóCeTe
-subtitle: atrévete a indagar dentro de ti
 boxes:
-- link: '#test-doshas'
+- title: CoNóCeTe
+  sub: atrévete a indagar dentro de ti
+- url: '#test-doshas'
   label: Test Doshas
 modal:
   color: white
-  inset: y
-  line: y
+  inset: true
+  line: true
 modals:
 - id: test-doshas
   title: ¿Sabes cuál es tu Dosha?
-  subtitle: Test
+  sub: Test
   md: |
     Aquí te dejo un test cuyas respuestas te ayudarán a identificar, no sólo cómo eres, sino por qué eres así
 
@@ -27,222 +27,222 @@ modals:
   inputs:
   - type: text
     name: Nombre
-    required: y
-  - type: email
+    req: true
+  - type: mail
     name: Email
-    required: y
+    req: true
   - type: hidden
     name: _cc
   - type: radio
     name: Textura de la piel
-    required: y
-    options:
-    - option: 1. Seca, áspera, fría, rugosa, venas prominentes
-    - option: 2. Caliente, grasosa, húmeda, pecas, acné
-    - option: 3. Gruesa, fría, bien lubricada
+    req: true
+    items:
+    - label: 1. Seca, áspera, fría, rugosa, venas prominentes
+    - label: 2. Caliente, grasosa, húmeda, pecas, acné
+    - label: 3. Gruesa, fría, bien lubricada
   - type: radio
     name: Brillo de la piel
-    options:
-    - option: 1. Mate
-    - option: 2. Rojo, ilustroso
-    - option: 3. Blanco, pálido
+    items:
+    - label: 1. Mate
+    - label: 2. Rojo, ilustroso
+    - label: 3. Blanco, pálido
   - type: radio
     name: Temperatura del cuerpo
-    options:
-    - option: 1. Manos y pies fríos
-    - option: 2. Caliente
-    - option: 3. Frío o normal
+    items:
+    - label: 1. Manos y pies fríos
+    - label: 2. Caliente
+    - label: 3. Frío o normal
   - type: radio
     name: Peso
-    options:
-    - option: 1. Dificultad para subir de peso
-    - option: 2. Mediano, pueden ganar o perder peso con facilidad
-    - option: 3. Generalmente con sobrepeso, dificultad para perderlo
+    items:
+    - label: 1. Dificultad para subir de peso
+    - label: 2. Mediano, pueden ganar o perder peso con facilidad
+    - label: 3. Generalmente con sobrepeso, dificultad para perderlo
   - type: radio
     name: Contextura
-    options:
-    - option: 1. Delgado, huesos finos
-    - option: 2. Moderada
-    - option: 3. Grande, robusto, bien desarrollado
+    items:
+    - label: 1. Delgado, huesos finos
+    - label: 2. Moderada
+    - label: 3. Grande, robusto, bien desarrollado
   - type: radio
     name: Estatura
-    options:
-    - option: 1. Muy alto o muy pequeño
-    - option: 2. Mediana
-    - option: 3. Generalmente pequeños, pero pueden ser altos y grandes
+    items:
+    - label: 1. Muy alto o muy pequeño
+    - label: 2. Mediana
+    - label: 3. Generalmente pequeños, pero pueden ser altos y grandes
   - type: radio
     name: Torax
-    options:
-    - option: 1. Estrecho
-    - option: 2. Desarrollado moderado
-    - option: 3. Ancho, bien desarrollado
+    items:
+    - label: 1. Estrecho
+    - label: 2. Desarrollado moderado
+    - label: 3. Ancho, bien desarrollado
   - type: radio
     name: Pelo
-    options:
-    - option: 1. Seco, fino, encrespado
-    - option: 2. Oleoso, calvicis prematura, canoso
-    - option: 3. Fuerte, ondulado, lustroso
+    items:
+    - label: 1. Seco, fino, encrespado
+    - label: 2. Oleoso, calvicis prematura, canoso
+    - label: 3. Fuerte, ondulado, lustroso
   - type: radio
     name: Frente
-    options:
-    - option: 1. Estrecha
-    - option: 2. Moderada, surcos
-    - option: 3. Ancha
+    items:
+    - label: 1. Estrecha
+    - label: 2. Moderada, surcos
+    - label: 3. Ancha
   - type: radio
     name: Ojos
-    options:
-    - option: 1. Pequeños, nerviosos
-    - option: 2. Penetrantes, se irritan con facilidad
-    - option: 3. Grandes, atractivos, pestañas grandes
+    items:
+    - label: 1. Pequeños, nerviosos
+    - label: 2. Penetrantes, se irritan con facilidad
+    - label: 3. Grandes, atractivos, pestañas grandes
   - type: radio
     name: Dientes
-    options:
-    - option: 1. Irregulares, pequeños, mal formados
-    - option: 2. Regulares, las encías sangran con facilidad
-    - option: 3. Grandes, bien formados
+    items:
+    - label: 1. Irregulares, pequeños, mal formados
+    - label: 2. Regulares, las encías sangran con facilidad
+    - label: 3. Grandes, bien formados
   - type: radio
     name: Lengua
-    options:
-    - option: 1. Áspera
-    - option: 2. Suave, rosada
-    - option: 3. Gruesa
+    items:
+    - label: 1. Áspera
+    - label: 2. Suave, rosada
+    - label: 3. Gruesa
   - type: radio
     name: Cara
-    options:
-    - option: 1. Pequeña, arrugada, seca
-    - option: 2. Delicada, rojiza, perfil agudo
-    - option: 3. Grande, agradable, perfil suave
+    items:
+    - label: 1. Pequeña, arrugada, seca
+    - label: 2. Delicada, rojiza, perfil agudo
+    - label: 3. Grande, agradable, perfil suave
   - type: radio
     name: Huesos
-    options:
-    - option: 1. Delgados, articulaciones crujientes
-    - option: 2. Medianos, articulaciones flojas
-    - option: 3. Gruesos, articulaciones fuertes
+    items:
+    - label: 1. Delgados, articulaciones crujientes
+    - label: 2. Medianos, articulaciones flojas
+    - label: 3. Gruesos, articulaciones fuertes
   - type: radio
     name: Uñas
-    options:
-    - option: 1. Quebradizas, ásperas
-    - option: 2. Suaves, rosadas
-    - option: 3. Ancha
+    items:
+    - label: 1. Quebradizas, ásperas
+    - label: 2. Suaves, rosadas
+    - label: 3. Ancha
   - type: radio
     name: Sed
-    options:
-    - option: 1. Escasa
-    - option: 2. Generalmente sediento
-    - option: 3. Moderada
+    items:
+    - label: 1. Escasa
+    - label: 2. Generalmente sediento
+    - label: 3. Moderada
   - type: radio
     name: Hábitos intestinales
-    options:
-    - option: 1. Heces duras, secas, estreñimiento
-    - option: 2. Heces suaves, sueltas, tendencia a la diarrea
-    - option: 3. Regular, heces normales
+    items:
+    - label: 1. Heces duras, secas, estreñimiento
+    - label: 2. Heces suaves, sueltas, tendencia a la diarrea
+    - label: 3. Regular, heces normales
   - type: radio
     name: Orina
-    options:
-    - option: 1. Escasa
-    - option: 2. Abundante, amarilla intensa
-    - option: 3. Moderada, clara
+    items:
+    - label: 1. Escasa
+    - label: 2. Abundante, amarilla intensa
+    - label: 3. Moderada, clara
   - type: radio
     name: Sudorcaión
-    options:
-    - option: 1. Escasa sin olor
-    - option: 2. Profundo olor intenso
-    - option: 3. Moderada
+    items:
+    - label: 1. Escasa sin olor
+    - label: 2. Profundo olor intenso
+    - label: 3. Moderada
   - type: radio
     name: Memoria
-    options:
-    - option: 1. Rápida, tendencia a olvidar
-    - option: 2. Aguda, clara
-    - option: 3. Lenta pero constante
+    items:
+    - label: 1. Rápida, tendencia a olvidar
+    - label: 2. Aguda, clara
+    - label: 3. Lenta pero constante
   - type: radio
     name: Comprensión
-    options:
-    - option: 1. Espontánea
-    - option: 2. Promedio
-    - option: 3. Requiere tiempo para comprender
+    items:
+    - label: 1. Espontánea
+    - label: 2. Promedio
+    - label: 3. Requiere tiempo para comprender
   - type: radio
     name: Sexualidad
-    options:
-    - option: 1. Interés sexual variable, fantasía sexual activa
-    - option: 2. Interés e impulso sexual alto
-    - option: 3. Interés e impulso sexual constante
+    items:
+    - label: 1. Interés sexual variable, fantasía sexual activa
+    - label: 2. Interés e impulso sexual alto
+    - label: 3. Interés e impulso sexual constante
   - type: radio
     name: Actividad
-    options:
-    - option: 1. Inquieto, quiere hace mucho a la vez
-    - option: 2. Moderado
-    - option: 3. Se mueve lentamente
+    items:
+    - label: 1. Inquieto, quiere hace mucho a la vez
+    - label: 2. Moderado
+    - label: 3. Se mueve lentamente
   - type: radio
     name: Temperamento
-    options:
-    - option: 1. Nervioso, cambiable
-    - option: 2. Motivado, intenso
-    - option: 3. Conservador
+    items:
+    - label: 1. Nervioso, cambiable
+    - label: 2. Motivado, intenso
+    - label: 3. Conservador
   - type: radio
     name: Estado de ánimo
-    options:
-    - option: 1. Ideas y estado de ánimo cambiables
-    - option: 2. Intenso al expresar ideas y sentimientos
-    - option: 3. Estable, confiable, lento para cambiar ideas
+    items:
+    - label: 1. Ideas y estado de ánimo cambiables
+    - label: 2. Intenso al expresar ideas y sentimientos
+    - label: 3. Estable, confiable, lento para cambiar ideas
   - type: radio
     name: Reacción al estrés
-    options:
-    - option: 1. Miedo y ansiedad bajo estrés
-    - option: 2. Frustración, irritabilidad, enojo abajo estrés
-    - option: 3. Lleva bien la presión y el estrés
+    items:
+    - label: 1. Miedo y ansiedad bajo estrés
+    - label: 2. Frustración, irritabilidad, enojo abajo estrés
+    - label: 3. Lleva bien la presión y el estrés
   - type: radio
     name: Sueño
-    options:
-    - option: 1. Ligero, con interrupciones
-    - option: 2. Variable
-    - option: 3. Profundo, excesivo
+    items:
+    - label: 1. Ligero, con interrupciones
+    - label: 2. Variable
+    - label: 3. Profundo, excesivo
   - type: radio
     name: Emociones positivas
-    options:
-    - option: 1. Adaptabilidad
-    - option: 2. Valor, coraje
-    - option: 3. Amor
+    items:
+    - label: 1. Adaptabilidad
+    - label: 2. Valor, coraje
+    - label: 3. Amor
   - type: radio
     name: Emociones negativas
-    options:
-    - option: 1. Miedo
-    - option: 2. Cólera
-    - option: 3. Apego
+    items:
+    - label: 1. Miedo
+    - label: 2. Cólera
+    - label: 3. Apego
   - type: radio
     name: Apetito
-    options:
-    - option: 1. Variable, nervioso
-    - option: 2. Grande, irritable si debe saltar la comida
-    - option: 3. Moderado pero constante
+    items:
+    - label: 1. Variable, nervioso
+    - label: 2. Grande, irritable si debe saltar la comida
+    - label: 3. Moderado pero constante
   - type: radio
     name: Resistencia a la enfermedad
-    options:
-    - option: 1. Pobre, sistema inmunológico variable
-    - option: 2. Mediana, tendencia a las infecciones
-    - option: 3. Buena, consistente, sistema inmunológico fuerte
+    items:
+    - label: 1. Pobre, sistema inmunológico variable
+    - label: 2. Mediana, tendencia a las infecciones
+    - label: 3. Buena, consistente, sistema inmunológico fuerte
   - type: radio
     name: Enfermedades frecuentes
-    options:
-    - option: 1. Alteraciones nerviosas y mentales, dolores neurálgicos y de las articulaciones
-    - option: 2. Enfermedades infecciosas e inflamatorias, trastornos sanguíneos
-    - option: 3. Enfermedades sistemáticas y respiratorias, edema, mucosidades, inflamación articular
+    items:
+    - label: 1. Alteraciones nerviosas y mentales, dolores neurálgicos y de las articulaciones
+    - label: 2. Enfermedades infecciosas e inflamatorias, trastornos sanguíneos
+    - label: 3. Enfermedades sistemáticas y respiratorias, edema, mucosidades, inflamación articular
   - type: radio
     name: Le disgusta
-    options:
-    - option: 1. El frío, la sequedad
-    - option: 2. Substancias y atmosfera caliente
-    - option: 3. Sustancias frías y aceitosas, atmósfera húmeda
+    items:
+    - label: 1. El frío, la sequedad
+    - label: 2. Substancias y atmosfera caliente
+    - label: 3. Sustancias frías y aceitosas, atmósfera húmeda
   - type: radio
     name: Preferencias climáticas
-    options:
-    - option: 1. Climas calientes, sol, humedad
-    - option: 2. Climas fríos bien ventilados
-    - option: 3. Cualquier clima siempre que no sea húmedo
+    items:
+    - label: 1. Climas calientes, sol, humedad
+    - label: 2. Climas fríos bien ventilados
+    - label: 3. Cualquier clima siempre que no sea húmedo
   - type: radio
     name: Fe
-    options:
-    - option: 1. Variable, errática
-    - option: 2. Fuerte, determinado
-    - option: 3. Sostenida, lenta de cambiar
+    items:
+    - label: 1. Variable, errática
+    - label: 2. Fuerte, determinado
+    - label: 3. Sostenida, lenta de cambiar
   - type: hidden
     name: Resultado

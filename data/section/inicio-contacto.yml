@@ -1,27 +1,28 @@
 name: Inicio ➡️ Contacto
-title: ConTacTo
-subtitle: no pienses tanto
 size: sm
-menu_button: cta
-form:
-  fill_inputs: n
-contact:
-- type: phone
-  label: +34 677 23 53 34
-- type: whatsapp
-  label: +34 677 23 53 34
-- type: mail
-  label: martaribas.orozco@gmail.com
-  full: y
-inputs:
-- type: text
-  name: Nombre
-  required: y
-- type: tel
-  name: Teléfono
-- type: email
-  name: Email
-  required: y
-- type: textarea
-  name: Mensaje
-  required: y
+menu_btn: cta
+boxes:
+- title: ConTacTo
+  sub: no pienses tanto
+  form:
+    fill_inputs: false
+  links:
+  - type: phone
+    label: +34 677 23 53 34
+  - type: whatsapp
+    label: +34 677 23 53 34
+  - type: mail
+    label: martaribas.orozco@gmail.com
+    full: true
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: phone
+    name: Teléfono
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true

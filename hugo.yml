@@ -1,11 +1,12 @@
 baseURL: https://backtoroots.es
-buildFuture: n
+buildFuture: false
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: backtoroots.es
   name: danafrimar
   netlify_id: d07e06c8-c4f9-4385-9e10-e56e9b0763db
   netlify_hook: NjUxNWI0ZjljZjgxMDAzNDNiY2Y2NTc2
   cloudflare_id: 
-  drive_link: https://drive.google.com/file/d/1f4HKwAlKsOafDjL2yxfgKubLXsPxHvbm
+  drive_url: https://drive.google.com/file/d/1f4HKwAlKsOafDjL2yxfgKubLXsPxHvbm
   drive_mails: martaribas.orozco@gmail.com

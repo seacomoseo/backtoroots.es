@@ -1,31 +1,32 @@
 name: Inicio ➡️ Retiros
-title: ReTiRoS
-subtitle: de lujo
-box:
-  ratio: 16/9
-  align_y: top
-  line: y
-  label: Más información
-  pin: picture_as_pdf
-  lock: y
-  cols: 4
 boxes:
-- title: Costa Brava
-  link: https://retirosespirituales.es/cataluna/
-  pin: arrow_selector_tool
-  image: retiros/costa-brava.jpg
-  md: |
-    ::event_available:: 15 julio ::event_busy:: 31 agosto
-- title: Ibiza
-  link: pdf/retiro-ibiza-2024.pdf
-  image: retiros/ibiza.jpg
-  md: |
-    ::event_available:: 2 octubre ::event_busy:: 6 octubre
-- title: Marruecos
-  image: retiros/marruecos.jpg
-  md: |
-    ::calendar_today:: próximamente
-- title: Grecia
-  image: retiros/grecia.jpg
-  md: |
-    ::calendar_today:: próximamente
+- title: ReTiRoS
+  sub: de lujo
+  box:
+    ratio: 16/9
+    align_y: top
+    line: true
+    label: Más información
+    pin: picture_as_pdf
+    lock: true
+    cols: 4
+  boxes:
+  - title: Costa Brava
+    url: https://retirosespirituales.es/cataluna/
+    pin: arrow_selector_tool
+    img: /u/retiros/costa-brava.jpg
+    md: |
+      ::event_available:: 15 julio ::event_busy:: 31 agosto
+  - title: Ibiza
+    url: /u/pdf/retiro-ibiza-2024.pdf
+    img: /u/retiros/ibiza.jpg
+    md: |
+      ::event_available:: 2 octubre ::event_busy:: 6 octubre
+  - title: Marruecos
+    img: /u/retiros/marruecos.jpg
+    md: |
+      ::calendar_today:: próximamente
+  - title: Grecia
+    img: /u/retiros/grecia.jpg
+    md: |
+      ::calendar_today:: próximamente

@@ -1,6 +1,6 @@
 name: Sabias que
 title: ¿SAbíAS qUé?
-subtitle: blog
+sub: blog
 tags: []
 author: null
 max: 12
@@ -11,5 +11,5 @@ box:
   cols: 4
   color: main
   color_alpha: .7
-  slider: y
+  slider: true
   arrows: float

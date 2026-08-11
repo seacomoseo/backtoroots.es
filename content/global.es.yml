@@ -1,64 +1,64 @@
 menu:
-  image: base/logo.svg
+  img: /u/base/logo.svg
   # title: BacK To RooTs
-  # subtitle: vuelta al origen
+  # sub: vuelta al origen
   items:
   # - label: INICIO
-  #   link: /
+  #   url: /
   #   anchor: Back to Roots
   - label: CONÓCEME
-    link: /#conoceme
+    url: /#conoceme
   - label: QUÉ HAGO
-    link: /#maestrias
+    url: /#maestrias
     items:
     - label: DANZÁFRICA
-      link: /danzafrica/
+      url: /danzafrica/
       anchor: Danza Africana en Cataluña
     - label: SATYAM YOGA
-      link: /satyam-yoga/
+      url: /satyam-yoga/
       anchor: Clases de Satyam Yoga en Cataluña
     - label: AGUAHARA
-      link: /aguahara/
+      url: /aguahara/
       anchor: Sesiones de Aguahara en Cataluña
   - label: A DÓNDE TE LLEVO
-    link: /#retiros
+    url: /#retiros
     items:
     - label: VIAJES
-      link: /#viajes-senegal
+      url: /#viajes-senegal
       anchor: Viajes organizados a Senegal para mujeres
     - label: RETIROS
-      link: /#retiros
+      url: /#retiros
       items:
       - label: REVAL
-        link: https://www.vacacionesalternativas.es/
+        url: https://www.vacacionesalternativas.es/
       - label: PARADISO RETREATS
-        link: https://paradisoretreats.com/
+        url: https://paradisoretreats.com/
   # - label: CONÓCETE
-  #   link: /#conocete
+  #   url: /#conocete
   - label: CONTACTO
-    link: /#contacto
-    button: cta
+    url: /#contacto
+    btn: cta
   # - label: BLOG
-  #   link: /blog/
+  #   url: /blog/
 callnows:
 - type: custom
-  link: https://wa.me/34677235334
+  url: https://wa.me/34677235334
   label: Coméntame lo que quieras, te leo
   icon: brand:whatsapp
-  button: whatsapp
-  lock: y
+  btn: whatsapp
+  lock: true
 footer:
   color: dark
   space: 2
   div: brush
-  div_x: n
+  div_x: false
   dots:
-  - link: https://www.instagram.com/danafrimar/
-  - link: https://www.linkedin.com/in/marta-ribas-918a643a/
-  - link: https://www.facebook.com/marta.r.orozco.5
-  - link: https://www.youtube.com/@back.toroots
-  - link: https://g.page/r/CYztzzviHI_kEBM
-  - link: https://g.page/r/CYu1Ude0qIvlEBM
+  - url: https://www.instagram.com/danafrimar/
+  - url: https://www.linkedin.com/in/marta-ribas-918a643a/
+  - url: https://www.facebook.com/marta.r.orozco.5
+  - url: https://www.youtube.com/@back.toroots
+  - url: https://g.page/r/CYztzzviHI_kEBM
+  - url: https://g.page/r/CYu1Ude0qIvlEBM
     icon: place
   md: |
     - ::copyright::        {{< internal-link index >}}

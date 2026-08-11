@@ -3,9 +3,9 @@ order: 2
 name: category
 tax_of:
 - name: blog
-  multiple: y
-  breadcrumbs: y
+  multi: true
+  crumbs: true
   schema: articleSection
 - name: category
-  multiple: y
-  breadcrumbs: y
+  multi: true
+  crumbs: true

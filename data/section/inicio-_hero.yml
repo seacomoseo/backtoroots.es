@@ -1,0 +1,62 @@
+name: Inicio ➡️ Hero
+size: xl
+pt: 2
+boxes:
+- box:
+    gap: 2
+    align: center
+  boxes:
+  - hanchor: BacK To RooTs - Vuelta al Origen - Cataluña
+    vid: https://youtu.be/T65GmlqwjUE
+    mute: true
+    ratio: 16/9
+    fit: 2
+  - md: |
+      Próximos viajes a Senegal
+      {.sub}
+
+      | Fecha                         | Disponibilidad |
+      | ----------------------------- | -------------- |
+      | ::event:: 25 abril -  5 mayo  | COMPLETO       |
+      | ::event::  5 mayo  - 14 mayo  | Disponible     |
+      | ::event::  2 julio - 14 julio | Sólo 6 plazas  |
+      {.align-left .bg-main-light}
+
+      [[::add:: Más información]](#viajes-senegal)
+modal:
+  inset: true
+  line: true
+modals:
+- id: viajes-senegal
+  title: Viajes a Senegal
+  sub: Próximas fechas
+  vid: https://youtu.be/5g6Od4cTRkI
+  mute: true
+  size: md
+  md: |
+    | Fecha                         | Disponibilidad |
+    | ----------------------------- | -------------- |
+    | ::event:: 25 abril -  5 mayo  | COMPLETO       |
+    | ::event::  5 mayo  - 14 mayo  | Disponible     |
+    | ::event::  2 julio - 14 julio | Sólo 6 plazas  |
+    {.align-left .bg-main-light}
+
+    [[::picture_as_pdf:: Más información]](/u/pdf/viaje-senegal-2024.pdf)
+  align: center
+  hanchor: Viajes a Senegal organizados para mujeres
+  imgs:
+  - /u/senegal/01.jpg
+  - /u/senegal/02.jpg
+  - /u/senegal/03.jpg
+  - /u/senegal/04.jpg
+  - /u/senegal/05.jpg
+  - /u/senegal/06.jpg
+  - /u/senegal/07.jpg
+  - /u/senegal/08.jpg
+  - /u/senegal/09.jpg
+  - /u/senegal/10.jpg
+  - /u/senegal/11.jpg
+  gallery:
+    btn: hide
+    cols: 3
+    type: rows

@@ -1,20 +1,21 @@
 ---
 title: DAnZÁFricA
-seo: DAnZÁFricA - Danza Africana en Cataluña - BacK To RooTs
+seo:
+  title: DAnZÁFricA - Danza Africana en Cataluña - BacK To RooTs
+  desc: llll➤ Una herramienta de transformación, gozo y alegría ✅ mediante encuentros dinámicos, inclusivos, divertidos y conscientes ✅ donde reunirnos en tribu.
 slug: danzafrica
-description: llll➤ Una herramienta de transformación, gozo y alegría ✅ mediante encuentros dinámicos, inclusivos, divertidos y conscientes ✅ donde reunirnos en tribu.
-image: fondo.jpg
+img: /u/fondo.jpg
 tpl:
   menu:
     color: main-dark
   section:
   - color: main-dark
-    bi: danzafrica/2023-09-24--01.jpg
-    alpha: .8
+    bi: /u/danzafrica/2023-09-24--01.jpg
+    alpha: 0.8
     pb: 8
   - bi: hide
   sections:
-  - file: danzafrica-header
+  - file: danzafrica-_hero
   - file: danzafrica-clases
   - file: danzafrica-encuentros
   - file: danzafrica-contrataciones

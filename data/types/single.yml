@@ -1,14 +1,15 @@
-title: Únicas
+title: Páginas Únicas
 weight: 0
 base: single
 tpl:
   callnow: custom
   section:
-  - line: y
-    color: cta
-    parallax: fix
+  - color: cta
+    scroll: fix
     size: lg
     div: brush
     alpha: 0.7
-  - div_x: y
-    div_y: y
+    box:
+      line: true
+  - div_x: true
+    div_y: true

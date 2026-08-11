@@ -2,7 +2,7 @@
 title: Ayurbeda ¿Qué es? ¿Para qué sirve? Resumen
 slug: ayurbeda-resumen
 author: admin
-toc: y
+toc: true
 date: 2024-04-14
 ---
 

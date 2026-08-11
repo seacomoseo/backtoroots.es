@@ -1,3 +1,6 @@
+@use 'css/_mixins' as mixins;
+@use 'css/_variables' as variables;
+
 // General
 
 .h1, .h2, .h3, .h4, .h5, .h6,
@@ -5,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
   // font-family: fantasy;
   letter-spacing: .125em;
 }
-.subtitle {
+.sub {
   font-size: 1.5em;
   --alt: var(--main);
 }
@@ -13,9 +16,9 @@ h1, h2, h3, h4, h5, h6 {
 // Logo
 
 .logo__title {
-    @include fluid-size(--hs, 1, 1.025, 2);
+    @include mixins.fluid-size(--hs, 1, 1.025, 2);
 }
-.logo__title + .logo__subtitle:not(#aux) {
+.logo__title + .logo__sub:not(#aux) {
   margin-top: -1em;
 }
 
@@ -43,9 +46,9 @@ h1, h2, h3, h4, h5, h6 {
 // Table odd files alt color
 
 tbody tr:nth-child(odd) {
-  background-color: $alt;
+  background-color: variables.$alt;
   &:hover {
-    background-color: $main-dark;
+    background-color: variables.$main-dark;
   }
 }
 
@@ -59,7 +62,7 @@ tbody tr:nth-child(odd) {
 
 // Header Animations
 
-#header {
+#hero {
   @mixin show-from($delay) {
     animation: show-from .5s (.25 + .125s * $delay) both;
   }
@@ -70,7 +73,7 @@ tbody tr:nth-child(odd) {
 
 // Sections
 
-// #header,
+// #hero,
 // #conoceme {
 //   [data-iframe]:after {
 //     content: '';
@@ -79,12 +82,12 @@ tbody tr:nth-child(odd) {
 // }
 
 
-#body-satyam-yoga #header,
+#body-satyam-yoga #hero,
 #maestrias {
-  .image__inner img {
-    --mask-image: linear-gradient(black 85%, transparent 100%);
-    -webkit-mask-image: var(--mask-image);
-    mask-image: var(--mask-image);
+  .img__in img {
+    --mask-img: linear-gradient(black 85%, transparent 100%);
+    -webkit-mask-image: var(--mask-img);
+    mask-image: var(--mask-img);
   }
 }
 
@@ -93,11 +96,11 @@ tbody tr:nth-child(odd) {
 #body-satyam-yoga .bg {
   --main: var(--light);
   --cta: var(--light);
-  --alt: var(--invert);
-  --alt-in: var(--invert-in);
+  --alt: var(--turn);
+  --alt-in: var(--turn-in);
 }
-#body-danzafrica #header {
-  .bg-figure-image img {
+#body-danzafrica #hero {
+  .bg-fig-image img {
     object-position: top center;
   }
 }
@@ -106,8 +109,8 @@ tbody tr:nth-child(odd) {
   $agua: #98cdd6;
   --main: #{ $agua };
   --cta: #{ $agua };
-  --alt: var(--invert);
-  --alt-in: var(--invert-in);
+  --alt: var(--turn);
+  --alt-in: var(--turn-in);
   // [data-iframe]:after {
   //   content: '';
   //   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{ str-slice(#{ $agua }, 2) }'/%3E%3Cpath d='M45 24 27 14v20' fill='%23#{ str-slice(#{ $dark }, 2) }'/%3E%3C/svg%3E");

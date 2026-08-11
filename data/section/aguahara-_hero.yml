@@ -1,34 +1,36 @@
-name: Aguahara ➡️ Header
-hanchor: Sesiones de AguAhArA en Cataluña
+name: Aguahara ➡️ Hero
 size: md
-box:
-  cols: 2
-  gap: 5
-  align_y: center
-  line: y
 boxes:
-- image: https://youtu.be/p099kMdQqa8#mute
-  ratio: 9/16
-  order: 2
-- title: AguAhArA
-  subtitle: Vuelta Al SiLeNciO
-  md: |
-    << El AguA CoMo OrÍGeN De ViDa >>
+- hanchor: Sesiones de AguAhArA en Cataluña
+  box:
+    cols: 2
+    gap: 5
+    align_y: center
+    line: true
+  boxes:
+  - vid: https://youtu.be/p099kMdQqa8
+    mute: true
+    ratio: 9/16
+    order: 2
+  - title: AguAhArA
+    sub: Vuelta Al SiLeNciO
+    md: |
+      << El AguA CoMo OrÍGeN De ViDa >>
 
-    AGUAHARA es una forma en la que podrás abrir una nueva manera de conexión contigo mism@, con el mundo, con la belleza, la tranquilidad y la paz. El cerebro más racional deja paso a otro modo de vivencia, más sensorial, menos controlado, más fluido.
+      AGUAHARA es una forma en la que podrás abrir una nueva manera de conexión contigo mism@, con el mundo, con la belleza, la tranquilidad y la paz. El cerebro más racional deja paso a otro modo de vivencia, más sensorial, menos controlado, más fluido.
 
-    Es definitivamente una experiencia que necesitas sentir y toda descripción en palabras se quedará corta, ten en cuenta que el agua es la que permite crear la vida, mantenerla y conectarla en todas sus formas. Posee una dimensión sagrada, simbólica y mística en todas las religiones y tradiciones. Su significado sobrepasa la realidad material. Sugiere en si misma la paz interna, el arte y la belleza.
+      Es definitivamente una experiencia que necesitas sentir y toda descripción en palabras se quedará corta, ten en cuenta que el agua es la que permite crear la vida, mantenerla y conectarla en todas sus formas. Posee una dimensión sagrada, simbólica y mística en todas las religiones y tradiciones. Su significado sobrepasa la realidad material. Sugiere en si misma la paz interna, el arte y la belleza.
 
-    [[::add:: Más]](#mas)
-  align: left
+      [[::add:: Más]](#mas)
+    align: left
 modal:
-  inset: y
-  line: y
+  inset: true
+  line: true
 modals:
 - id: más
   title: AguAhArA
-  subtitle: Vuelta Al SiLeNciO
-  image: aguahara/2023-09-24-19-35-59.jpg
+  sub: Vuelta Al SiLeNciO
+  img: /u/aguahara/2023-09-24-19-35-59.jpg
   md: |
     Las sesiones de Aguahara se realizan involucrando a dos personas: un facilitador entrenado, cuyo rol es activo, pues brinda el movimiento y a la vez un espacio contenido para la otra persona; y un receptor cuya única tarea sólo consiste en soltar, entregándose al agua y al fluir de la sesión. Su rol es 100% es pasivo.
 

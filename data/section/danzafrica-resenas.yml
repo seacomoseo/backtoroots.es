@@ -1,10 +1,10 @@
 name: Danzafrica ➡️ Resenas
-title: Reseñas
-subtitle: dicen por ahí...
 boxes:
+- title: Reseñas
+  sub: dicen por ahí...
 - review:
     color: main
-    slider: y
+    slider: true
     cols: 3
     alpha: 0.7
     pips: hide
