@@ -1,0 +1,9 @@
+- name: author
+  value: admin
+  path:
+  - /blog/*
+- name: seo.noindex
+  value: 'true'
+  type: bool
+  path:
+  - /category/*

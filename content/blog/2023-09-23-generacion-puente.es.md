@@ -1,8 +1,8 @@
 ---
-title: Somos la generación puente
 slug: generacion-puente
+title: Somos la generación puente
 author: admin
-date: 2023-09-23
+date: 2023-09-23 00:00:00
 ---
 
 Si has leído bien y lee con atención porque esto te afecta a ti directamente.

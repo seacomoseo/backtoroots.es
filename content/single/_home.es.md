@@ -1,9 +1,9 @@
 ---
+slug: /
 title: Inicio
 seo:
   title: BacK To RooTs - Vuelta al Origen - Cataluña
   desc: llll➤ SaTyaM YoGa - Vuelta a la Unidad ➤ DAnZÁFricA (Danza Africana) - Vuelta a la RaiZ ➤ AguAhArA - El AguA CoMo OrÍGeN De ViDa.
-slug: /
 img: /u/fondo.jpg
 base: org
 org:
@@ -18,7 +18,12 @@ org:
   nif: 12345678-A
   mail: martaribas.orozco@gmail.com
   logo: /u/base/poster.png
-  imgs: []
+  imgs:
+  - /u/fondo.jpg
+  - /u/satyam-yoga/2023-09-21-12-40-45.png
+  - /u/danzafrica/2023-09-24--01.png
+  - /u/aguahara/2023-09-24-19-35-59.png
+  - /u/senegal/01.jpg
   as:
   - https://www.instagram.com/danafrimar/
   - https://www.linkedin.com/in/marta-ribas-918a643a/
@@ -34,7 +39,7 @@ org:
     pc: '8980'
     locality: Sant Feliu de Llobregat, Barcelona
     region: Cataluña
-    country: España
+    country: ES
     geo: '{"type":"Point","coordinates":[2.0458810,41.3863149]}'
     legal: Carrer Riera d'Aubí, 37, 17230, Palamós, Girona
   areas:
@@ -44,19 +49,19 @@ org:
   prices: €€
   services:
   - title: SaTyaM YoGa
-    url: https://backtoroots.es/satyam-yoga/
+    url: /satyam-yoga/
     area: Cataluña
   - title: DAnZÁFricA
-    url: https://backtoroots.es/danzafrica/
+    url: /danzafrica/
     area: Cataluña
   - title: AguAhArA
-    url: https://backtoroots.es/aguahara/
+    url: /aguahara/
     area: Cataluña
   - title: Retiros
-    url: https://backtoroots.es/#retiros
+    url: /#retiros
     area: España
   - title: Viajes a Senegal
-    url: https://backtoroots.es/#viajes-senegal
+    url: /#viajes-senegal
     area: España
 tpl:
   menu:
@@ -68,12 +73,12 @@ tpl:
     bi: hide
     pb: 8
   sections:
-  - file: inicio-_hero
-  - file: inicio-proximos
-  - file: inicio-conoceme
-  - file: inicio-maestrias
-  # - file: inicio-retiros
-  # - file: inicio-conocete
-  - file: inicio-contacto
+  - file: _home-_hero
+  - file: _home-proximos
+  - file: _home-conoceme
+  - file: _home-maestrias
+  # - file: _home-retiros
+  # - file: _home-conocete
+  - file: _home-contacto
 ---
 

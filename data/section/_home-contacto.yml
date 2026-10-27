@@ -4,8 +4,6 @@ menu_btn: cta
 boxes:
 - title: ConTacTo
   sub: no pienses tanto
-  form:
-    fill_inputs: false
   links:
   - type: phone
     label: +34 677 23 53 34

@@ -1,6 +1,6 @@
 ---
-title: Marta Ribas Orozco
 slug: admin
+title: Marta Ribas Orozco
 seo:
   desc: Cuando comparto lo que sea, yoga, danza o aguahara lo hago desde lo más auténtico de mí.
   noindex: true

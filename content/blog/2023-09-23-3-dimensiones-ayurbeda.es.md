@@ -1,9 +1,9 @@
 ---
-title: Las tres dimensiones del Ayurbeda
 slug: 3-dimensiones-ayurbeda
+title: Las tres dimensiones del Ayurbeda
 author: admin
 toc: true
-date: 2023-09-23
+date: 2023-09-23 00:00:00
 ---
 
 Siento que está sustentado o arropado por tres patas, fuerzas, realidades, dimensiones, ¡¡qué se yo!!

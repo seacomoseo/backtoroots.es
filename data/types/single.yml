@@ -1,14 +1,14 @@
 title: Páginas Únicas
-weight: 0
 base: single
+weight: 0
 tpl:
   callnow: custom
   section:
   - color: cta
     scroll: fix
+    alpha: 0.7
     size: lg
     div: brush
-    alpha: 0.7
     box:
       line: true
   - div_x: true

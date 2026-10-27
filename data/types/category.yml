@@ -1,6 +1,5 @@
 base: page
 order: 2
-name: category
 tax_of:
 - name: blog
   multi: true

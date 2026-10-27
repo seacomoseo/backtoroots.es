@@ -1,9 +1,9 @@
 ---
+slug: aguahara
 title: AguAhArA
 seo:
   title: AguAhArA - Sesiones en Cataluña - BacK To RooTs
   desc: llll➤ Abre una nueva conexión contigo mism@, el mundo, la belleza, la tranquilidad y la paz. ✅ Menos racional, más sensorial, menos controlado, más fluido.
-slug: aguahara
 img: /u/fondo.jpg
 tpl:
   menu:

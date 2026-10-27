@@ -48,10 +48,10 @@ callnows:
   btn: whatsapp
   lock: true
 footer:
-  color: dark
-  space: 2
   div: brush
   div_x: false
+  color: dark
+  space: 2
   dots:
   - url: https://www.instagram.com/danafrimar/
   - url: https://www.linkedin.com/in/marta-ribas-918a643a/

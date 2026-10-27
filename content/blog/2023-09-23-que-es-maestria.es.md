@@ -1,8 +1,8 @@
 ---
-title: ¿Qué es una maestría? ¿Qué es ser una maestra?
 slug: que-es-maestria
+title: ¿Qué es una maestría? ¿Qué es ser una maestra?
 author: admin
-date: 2023-09-23
+date: 2023-09-23 00:00:00
 ---
 
 ¡¡Crecí sintiendo que los maestros deben saber de todo!! Que deben tener respuestas para todo y pues no creo que sea así en realidad.

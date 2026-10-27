@@ -1,9 +1,9 @@
 ---
-title: Ayurbeda ¿Qué es? ¿Para qué sirve? Resumen
 slug: ayurbeda-resumen
+title: Ayurbeda ¿Qué es? ¿Para qué sirve? Resumen
 author: admin
 toc: true
-date: 2024-04-14
+date: 2024-04-14 00:00:00
 ---
 
 *La ciencia de la vida*
